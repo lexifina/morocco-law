@@ -1,0 +1,5 @@
+# Préambule et visas
+
+Décret n° 2-96-906 (9 ramadan 1417) du 18 janvier 1997 pris pour l'application du chapitre II - relatif au registre du commerce - du titre IV du livre premier de la loi n° 15-95 formant Code de commerce (B.O. 6 février 1997).
+Vu la loi 15-95 formant Code de commerce, promulguée par le dahir 1-96-83 du 15 rabii I 1417 (1er août 1996), notamment le chapitre II du titre IV du livre premier de ladite loi ; Après examen par le conseil des ministres réuni le 8 ramadan 1417 (17 janvier 1997), Chapitre Premier : de la Déclaration d'Inscription au Registre du Commerce Article Premier : La déclaration d'inscription au registre du commerce doit être présentée par l'assujetti ou son mandataire, au secrétariat greffe du tribunal compétent, en triple exemplaire sur des formulaires définis par arrêté du ministre de la justice.
+Elle est accompagnée des actes et pièces justificatifs dont la liste est fixée dans le même arrêté. Elle est revêtue de la signature de l'assujetti ou de son mandataire dûment muni d'une procuration portant la signature légalisée du mandant.
