@@ -1,0 +1,3 @@
+# Article 201 ter
+
+(Ajouté, D. n° 1-61-223, 24 octobre 1961 - 14 joumada I 1381, article 2) : Si le marin prouve à l'armateur ou à son représentant, soit qu'il a la possibilité d'obtenir le commandement d'un navire ou un emploi d'officier ou d'officier mécanicien ou tout autre emploi plus élevé que celui qu'il occupe, soit que par suite de circonstances intervenues depuis son engagement, son départ présente pour lui un intérêt capital, il peut demander son congédiement à condition qu'il assure, sans frais nouveaux pour l'armateur, son remplacement par une personne compétente, agréée par l'armateur ou son représentant. Dans ce cas le marin a droit aux salaires correspondant à la durée de son service.

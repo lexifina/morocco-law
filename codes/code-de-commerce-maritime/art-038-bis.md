@@ -1,0 +1,9 @@
+# Article 38 bis
+
+(Ajouté, D. 6 juillet 1953 - 24 chaoual 1372) : L'effectif du personnel de tout navire marocain doit être tel que du point de vue de la sécurité en mer, il existe à bord un équipage suffisant en nombre et en qualité. Cet effectif est fixé, sur la proposition de l'armateur, par l'inspecteur de la navigation du port où le navire prend armement compte tenu de la législation sur la durée du travail à bord, des caractéristiques du navire et des conditions de son exploitation.
+Il peut être révisé sur la demande de l'armateur ou du capitaine, sur la réclamation écrite et motivée de trois membres de l'équipage :
+1° Après trois mois d'exploitation pour les navires armés au cabotage ; après six mois d'exploitation pour les navires armés au long cours ;
+2° Lors du renouvellement du permis de navigation ;
+3° A toute époque, si les éléments qui ont servi de base à sa fixation viennent à être modifiés.
+Les auteurs de la demande de révision peuvent, dans le délai de quinze jours, former un recours administratif contre la décision de l'inspecteur de la navigation devant la commission de contre-visite prévue à l'article 37 ter cidessus. Cette commission, présidée par le chef du quartier maritime, entend l'inspecteur de la navigation, le capitaine et les représentants de l'équipage. Ceux-ci peuvent, les uns et les autres, être assistés de conseils de leur choix. Le chef du quartier maritime statue conformément aux conclusions de la commission.
+Les décisions du chef du quartier maritime peuvent être portées par les intéressés dans un délai de quinze jours devant le sous-secrétaire d'Etat au commerce, à l'industrie, à l'artisanat et à la marine marchande ou le chef de la direction de la marine marchande et des pêches maritimes, délégué par lui à cet effet, qui statue après consultation d'une commission supérieure des effectifs dont la composition et le fonctionnement sont fixés par décret.

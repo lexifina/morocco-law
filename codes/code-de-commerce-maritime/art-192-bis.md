@@ -1,0 +1,3 @@
+# Article 192 bis
+
+Les dispositions des articles 189 à 192 ci-dessus ne sont pas applicables si la maladie ou la blessure a été déterminée par un fait intentionnel ou par une faute inexcusable du marin ou encore si elle a été contractée par lui sous l'influence de l'ivresse ou si elle résulte d'un acte d'indiscipline de sa part. Cependant, ces dispositions sont applicables en cas d'accident du travail même s'il est vérifié que cet accident est dû à une faute inexcusable de la victime. Dans les cas visés ci-dessus où les dispositions des articles 189 à 192 ne sont pas applicables, le capitaine est néanmoins tenu de faire donner au marin tous les soins nécessaires jusqu'à ce que celui-ci soit confié aux mains de l'autorité maritime ou de l'autorité consulaire française.
