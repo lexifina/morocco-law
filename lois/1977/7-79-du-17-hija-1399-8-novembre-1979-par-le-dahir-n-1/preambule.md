@@ -1,0 +1,4 @@
+# Préambule et visas
+
+Dahir portant loi n° 1-75-292 du 5 chaoual 1397 (19 septembre 1977) édictant des mesures propres à garantir les animaux domestiques contre les maladies contagieuses tel qu’il à été modifie et complété par le dahir n°1-79-224 portant promulgation de la loi n°7-79 du 17 hija 1399 (8 novembre 1979), par le dahir n°1-96-254 portant promulgation de la loi n°25-96 du 12 ramadan 1417 (21 janvier1997), le dahir n°1-02-254 portant promulgation de la loi n°46 -01 du 25 rejeb 1423 (3 octobre 2002), et le dahir n° 1-06-51 portant promulgation de la loi n°06-05 du 15 moharrem 1427 (14 février 2006).
+(BON°.3388 du 5-10-1977) (BON°.3500 du 28-11-1979) (BON° .4482 du 15-5-1997) (BO N°.5058 du 21-11-2002) (BO N° 5400 du 2-3-2006) (Grand Sceau de SA Majesté Hassan II) Que l’on sache par les présentes-puisse Dieu en élever et en fortifier la teneur ! Que Notre Majesté Chérifienne, Vu la constitution, notamment son article 102, A décidé ce qui suit :
