@@ -1,0 +1,8 @@
+# Préambule et visas
+
+Arrêté du ministre des pêches maritimes, des affaires administratives et des relations avec le parlement n°369-98 du 6 kaada 1418 (5 mars 1998) fixant les conditions de maillages des filets traînants pouvant être utilisés pour la pêche des céphalopodes (BO n°4574 du 2 avril 1998, page 226)).
+Le Ministre des Pêches Maritimes des Affaires Administratives et des Relations avec le Parlement, Vu le dahir portant loi n°1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime, notamment ses articles 14, 15 et 16 ;
+Vu le décret n°2-98-222 du 5 kaada 1418 (4 mars 1998) donnant délégation au ministre chargé des pêches maritimes et de la marine marchande pour fixer les conditions dans lesquelles est pratiquée la pêche des céphalopodes, au moyen de filets traînants ;
+Vu l’arrêté du ministre des pêches maritimes et de la marine marchande n°1154-88 du 20 safar 1409 (3 octobre 1988) fixant la taille marchande minimale des espèces pêchée dans les eaux maritimes marocaine.
+Arrête Article Premier : La pêche des céphalopodes au moyen de filets traînants, tels qu’ils sont définis à l’article 14 du dahir n°1-73-255 susvisé, doit être pratiquée avec des engins conçus, confectionnés, montés, équipés et utilisés de telle sorte qu’ils permettent exclusivement la capture d’espèces ayant atteint la taille minimale fixée par l’arrêté susvisée n°1154-88 du 20 safar 1409 (3 octobre 1988). A cet effet, il est interdit d’utiliser des filets traînants dont l’une quelconque des parties est constituée de mailles confectionnées avec des filets ayant une épaisseur supérieure à quatre (4) millimètres de diamètre.
+De même il est interdit de doubler les poches de ces filets ou d’utiliser des filets doubles pour leur fabrication.
