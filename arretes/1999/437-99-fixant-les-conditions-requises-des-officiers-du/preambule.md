@@ -1,0 +1,7 @@
+# Préambule et visas
+
+Arrêté du ministre délégué auprès du ministre de l’agriculture, de développement rural et des pêches maritimes, chargé des pêches maritimes n°437-99 du 13 hijja 1419 (31 mars 1999) fixant les conditions requises des officiers du pont pour exercer à bord des navires armés à la pêche au large ou à la petite pêche, des fonctions autres que celles de capitaine ou de patron (BO n°4714 du 5 août 1999, page 596) Le ministre délégué auprès du ministre de l’agriculture, de développement rural et des pêches maritimes, chargé des pêches maritimes, Vu le décret n°2-60-389 du 9 ramadan 1380 (25 février 1961) fixant les conditions requises pour commander et exercer les fonctions d’officier de pont et d’officier mécanicien à bord des navires de commerce et de pêche et notamment son article premier ;
+Vu le décret n°2-94-858 du 18 chaabane 1415 (20 janvier 1995) fixant les attributions et l’organisation du ministère des pêches maritimes et de la marine marchande ;
+Vu le décret n°2-97-763 du 6 joumada I 1418 (9 septembre 1997) relatif aux attributions du ministre des pêches maritimes, des affaires administratives et des relations avec le parlement et portant délégation de pouvoir ;
+Vu l’arrêté du ministre de l’agriculture, de développement rural et des pêches maritimes n°1560-98 du 26 rebia I 1419 (21 juillet 1998) portant délégation d’attribution au ministre délégué auprès du ministre de l’agriculture, de développement rural et des pêches maritimes, chargé des pêches maritimes ;
+Après avis des chambres des pêches maritimes, Arrête
