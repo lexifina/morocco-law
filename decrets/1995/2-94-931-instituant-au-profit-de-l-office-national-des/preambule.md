@@ -1,0 +1,6 @@
+# Préambule et visas
+
+Décret n°2-94-931 du 18 Chaâbane 1415 (20 janvier 1995) instituant, au profit de l'office national des pêches et de l’institut national de recherche halieutique, une taxe parafiscale dite "taxe d'affrètement pour la pêche des espèces pélagiques" (BO n°4292 du 1er février 1995, page 98) (Intitulé modifié par le décret n°2-95-837 du 1er joumada II 1417 (14 octobre 1996) art. premier (BO n°4428 du 7 novembre 1996, page 733)) Vu le dahir n°1-72-260 du 9 chaabane 1392 (18 septembre 1972) portant loi organique des finances, notamment son article 16 (deuxième alinéa) ;
+Vu le dahir portant n°1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime, notamment son article 3 ;
+Vu le dahir n°1-69-45 du 4 hijja 1388 (21 février 1969) relatif à l’Office national des pêches ; Vu le décret n°2-92-1026 du 4 rejeb 1413 (29 décembre 1992) fixant les conditions et les modalités de délivrance et de renouvellement de la licence de pêche dans la zone économique exclusive ; Sur proposition du ministre des finances et des investissements et du ministre des pêches maritimes et de la marine marchande ;
+Après examen par le conseil des ministres réuni le 24 rejeb 1415 (37 décembre 1994) Décrète :
