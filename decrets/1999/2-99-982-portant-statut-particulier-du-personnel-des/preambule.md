@@ -1,0 +1,21 @@
+# Préambule et visas
+
+Décret n°2-99-982 du 20 joumada I 1420 (1er septembre 1999) portant statut particulier du personnel des chambres de pêches maritimes (BO n°4810 du 6 juillet 2000, page 668). Le premier ministre, Vu le dahir n°1-58-008 du 4 chaabane 1377 (24 février 1958) portant statut général de la fonction publique, tel qu'il a été modifié et complété ;
+Vu le dahir n°1-59-271 du 17 chaoual 1379 (14 avril 1960) organisant le contrôle de l'Etat sur les offices, établissements publics et sociétés concessionnaires, ainsi que sur les sociétés et organismes bénéficiant du concours financier de l'Etat ou des collectivités publiques, tel qu'il a été modifié ou complété ;
+Vu le dahir n°1-62-113 du 16 safar 1382 (19 juillet 1962) relatif au statut des personnels de diverses entreprises ;
+Vu le dahir portant loi n°1-77-216 du 20 chaoual 1397 (4 octobre 1977) créant un régime collectif d'allocation de retraite ;
+Vu la loi n°4-97 formant statut des chambres de pêches maritimes, promulguée par le dahir n°1-97-88 du 23 kaada 1417 (2 avril 1997) ;
+Vu le décret royal n°401-67 du 13 rabii I 1387 (22 juin 1967) portant règlement général des concours et examens pour l'accès aux cadres, grades et emplois des administrations publiques, tel qu'il a été modifié et complété ;
+Vu le décret royal n°682-67 du 9 rejeb 1387 (13 octobre 1967) portant statut particulier du cadre des agents publics, tel qu'il a été modifié et complété ;
+Vu le décret royal n°62-68 du 19 safar 1388 (17 mai 1968) fixant les dispositions applicables aux fonctionnaires stagiaires des administrations publiques ;
+Vu le décret n°2-59-0200 du 26 chaoual 1378 (5 mai 1959) portant application de l'article 11 du dahir portant statut général de la fonction publique relatif aux commissions administratives paritaires, tel qu'il a été modifié et complété ;
+Vu le décret n°2-62-344 du 15 safar 1383 (8 juillet 1963) fixant les échelles de rémunération et les conditions d'avancement d'échelon et de grade des fonctionnaires de l'Etat, tel qu'il a été modifié et complété ;
+Vu le décret n°2-62-345 du 15 safar 1383 (8 juillet 1963) portant statut particulier des cadres d'administration centrale et du personnel commun aux administrations publiques, tel qu'il a été modifié et complété ;
+Vu le décret n°2-63-165 du 28 joumada II 1383 (16 novembre 1963) relatif aux emplois supérieurs et de direction de diverses entreprises ;
+Vu le décret n°2-73-722 du 6 hija 1393 (31 décembre 1973) fixant les échelles de classement d'échelon des fonctionnaires de I'Etat et la hiérarchie des emplois supérieurs des administrations publiques ; Vu le décret n°2-75-864 du 17 moharrem 1396 (19 janvier 1976) relatif au régime indemnitaire attaché à l'exercice de fonctions supérieures dans les départements ministériels ; Vu le décret n°2-77-551 du 20 chaoual 1397 (4 octobre 1977) fixant les modalités d'application du régime collectif d'allocation de retraite (régime général) ;
+Vu le décret n°2-77-515 du 20 chaoual 1397 (4 octobre 1977) portant statut particulier du personnel de la marine marchande, tel qu'il a été modifié et complété ;
+Vu le décret n°2-77-750 du 20 chaoual 1397 (4 octobre 1977) portant statut particulier du corps interministériel des informatistes des administrations publiques, tel qu'il a été modifié et complété ; Vu le décret n°2-80-100 du 6 moharrem 1401 (14 novembre 1980) portant statut particulier du corps interministériel des informaticiens des administrations publiques ;
+Vu le décret n°2-82-668 du 17 rabii Il 1405 (9 janvier 1985) portant statut particulier du corps interministériel des ingénieurs et des architectes, tel qu'il a été modifié et complété ; Vu le décret n°2-86-812 du 11 safar 1408 (6 octobre 1987) portant statut particulier du corps interministériel des techniciens ;
+Vu le décret n°2-92-231 du 7 kaada 1413 (29 avril 1993) dispensant les fonctionnaires de la condition d'âge requise statutairement pour leur recrutement dans un nouveau cadre de l'Etat, Décrète Chapitre premier : Dispositions générales Article Premier : Le présent statut régit le personnel des chambres des pêches maritimes qui comprend:
+des agents statutaires : stagiaires et titulaires ;
+des fonctionnaires des administrations publiques placés en service détaché ; des agents non permanents, agents occasionnels à salaire journalier.
