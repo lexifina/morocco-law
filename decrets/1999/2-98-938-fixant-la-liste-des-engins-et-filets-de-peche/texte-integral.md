@@ -1,0 +1,8 @@
+# Décret n° 2-98-938 du 17 ramadan 1419 (5 janvier 1999) fixant la liste des engins et filets de pêche dispensés du visa et de la certification du quartier maritime.
+
+Décret n°2-98-938 du 17 ramadan 1419 (5 janvier 1999) fixant la liste des engins et filets de pêche dispensés du visa et de la certification du quartier maritime (BO n°4662 du 4 février 1999, page 96) Ce décret est abrogé :
+En effet, le dahir n°1-06-232 du 10 hijja 1427 (31 décembre 2006) portant loi promulgation de la loi de finances n°43-06 pour l’année budgétaire 2007 a instauré le Code Général des Impôts dans son article
+5. Ce CGI a exonéré les filets et engins de pêche de la TVA à l’intérieur et à l’importation (art. 92-I-3° et 123-9° dudit CGI).
+Ensuite le dahir n°1-13-115 du 26 safar 1435 (30 décembre 2013) portant promulgation de la loi de finances n°110-13 pour l’année budgétaire 2014 a modifié les articles 92-I-3° et 123-9°du Code Général des Impôts en supprimant l’exonération dont bénéficiaient les engins et filets de pêche, à l’intérieur et à l’importation, cité ci-haut.
+Ainsi, à compter du 1er janvier 2014, les engins et filets de pêche sont passibles de la TVA, à l’intérieur et à l’importation.
+En conséquence de cette suppression de l’exonération de la TVA des filets et engins de pêche, il y a eu: abrogation des dispositions de l’article 3 du décret n°2-06-574 qui prévoyaient les modalités d’exonération des engins et filets de pêche par le décret n°2-13-794 du 27 safar 1435 (31 décembre 2013) (BO édition arabe n°5487 du 1er janvier 2007, page 181); abrogation du décret n°2-98-938 du 17 ramadan 1419 (5 janvier 1999) fixant la liste des engins et filets de pêche dispensés du visa et de la certification du quartier maritime .
