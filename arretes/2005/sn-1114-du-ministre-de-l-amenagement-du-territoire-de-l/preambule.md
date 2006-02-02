@@ -1,0 +1,4 @@
+# Préambule et visas
+
+Bulletin Officiel file:///D/HTML/mor64667.htm[16.01.2025 08:17:17] Bulletin Officiel n° 5392 du Jeudi 2 Février 2006 Arrêté conjoint du ministre de l'aménagement du territoire, de l'eau et de l'environnement, du ministre des finances et de la privatisation et du ministre de l'industrie, du commerce et de la mise à niveau de l'économie n° 2565-05 du chaoual 1426 (14 novembre 2005) relatif aux redevances d'utilisation de l'eau du domaine public hydraulique pour l'approvisionnement en eau industrielle.
+Le ministre de l'aménagement du territoire, de l'eau et de l'environnement, Le ministre des finances et de la privatisation, Le ministre de l'industrie, du commerce et de la mise à niveau de l'économie, Vu le décret n° 2-97-414 du 6 chaoual 1418 (4 février 1998) relatif aux modalités de fixation et de recouvrement de la redevance pour utilisation de l'eau du domaine public hydraulique, Arrêtent :
