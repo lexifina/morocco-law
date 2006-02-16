@@ -1,0 +1,6 @@
+# Préambule et visas
+
+Bulletin Officiel file:///D/HTML/mor64682.htm[16.01.2025 08:17:19] Bulletin Officiel n° 5396 du Jeudi 16 Février 2006 Arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 207-05 du 8 chaoual 1426 (11 novembre 2005) relatif aux exigences phytosanitaires à l'importation du matériel végétal au genre Vitis (L). Le ministre de l'agriculture, du développement rural et des pêches maritimes, Vu le dahir du 23 rabii I 1346 (20 septembre 1927) portant règlement de police sanitaire des végétaux, tel qu'il a été modifié ;
+Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n° 1306-85 du 19 rabii II 1407 (22 décembre 1986) relatif à la police sanitaire des végétaux ou produits végétaux à l'importation ;
+Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n° 467-84 du 15 joumada II 1404 (19 mars 1984) réglementant l'importation de plantes ou parties de plantes susceptibles d'être infestées par certaines espèces nuisibles de ravageurs animaux ou végétaux tel que modifié par l'arrêté du ministre de l'agriculture et de la réforme agraire n° 832-02 du 30 rabii II 1423 (12 juin 2002) ;
+Vu la nécessité de protéger les plantations nationales de vigne contre certains parasites dangereux, Arrête :
