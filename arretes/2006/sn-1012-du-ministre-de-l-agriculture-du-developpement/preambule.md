@@ -1,0 +1,5 @@
+# Préambule et visas
+
+Bulletin Officiel n° 5474 du Jeudi 16 Novembre 2006 Arrêté conjoint du ministre de l'agriculture, du développement rural et des pêches maritimes, du ministre de l'intérieur et du ministre des finances et de la privatisation n° 2379-06 du 19 ramadan 1427 (12 octobre 2006) fixant les modalités de l'aide de l'Etat en vue de l'aménagement des propriétés agricoles en systèmes d'irrigation localisée ou de complément.
+Le ministre de l'agriculture, du développement rural et des pêches maritimes, Le ministre de l'intérieur, Le ministre des finances et de la privatisation, Vu le dahir n° 1-69-25 du 10 joumada I 1389 (25 juillet 1969) formant code des investissements agricoles, tel qu'il a été modifié et complété, notamment ses articles 2 et 3 ;
+Vu le décret n° 2-83-752 du 7 joumada I 1405 (29 janvier 1985) réglementant les encouragements de l'Etat en vue de l'aménagement hydroagricole et des améliorations foncières des propriétés agricoles, tel qu'il a été modifié et complété par le décret n° 2-93-82 du 13 kaada 1413 (5 mai 1993), Arrêtent :
