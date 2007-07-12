@@ -1,0 +1,6 @@
+# Préambule et visas
+
+Bulletin Officiel n° 5544 du Jeudi 19 Juillet 2007 Décret n° 2-06-779 du 11 joumada II 1428 (27 juin 2007) pris en application de l'article 43 du dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime.
+Le premier ministre, Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime, tel que modifié et complété, notamment son article 43 ; Vu le décret n° 2-94-858 du 18 chaabane 1415 (20 janvier 1995) fixant les attributions et l'organisation du ministère des pêches maritimes et de la marine marchande, notamment ses articles 7, 8 et 13 ; Vu le décret n° 2-97-763 du 6 joumada I 1418 (9 septembre 1997) relatif aux attributions du ministre des pêches maritimes, des affaires administratives et des relations avec le Parlement et portant délégation de pouvoir ;
+Vu le décret n° 2-04-538 du 14 joumada I 1425 (2 juillet 2004) relatif aux attributions du ministre de l'agriculture, du développement rural et des pêches maritimes ;
+Sur proposition du ministre de l'agriculture, du développement rural et des pêches maritimes ; Après examen par le conseil des ministres réuni le 5 joumada II 1428 (21 juin 2007), Décrète :
