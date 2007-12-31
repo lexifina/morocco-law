@@ -1,0 +1,4 @@
+# Préambule et visas
+
+Bulletin Officiel n° 5591bis du Lundi 31 Décembre 2007 Décret n° 2-07-1264 du 16 hija 1428 (27 décembre 2007) complétant le décret n° 2-96- 298 du 13 safar 1417 (30 juin 1996) instituant au profit de l'Office national interprofessionnel des céréales et des légumineuses une taxe de commercialisation des céréales et des légumineuses et fixant les modalités de son recouvrement. Le premier ministre, Vu le décret n° 2-96-298 du 13 safar 1417 (30 juin 1996) instituant au profit de l'Office national interprofessionnel des céréales et des légumineuses une taxe de commercialisation des céréales et des légumineuses et fixant les modalités de son recouvrement, tel qu'il a été modifié ; Sur proposition du ministre de l'agriculture et de la pêche maritime et du ministre de l'économie et des finances ;
+Après examen par le conseil des ministres réuni le 2 hija 1428 (13 décembre 2007), Décrète :
