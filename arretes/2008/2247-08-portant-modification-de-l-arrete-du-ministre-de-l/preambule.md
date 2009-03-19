@@ -1,0 +1,7 @@
+# Préambule et visas
+
+Arrêté du secrétaire d'Etat auprès du ministre de l'énergie, des mines, de l'eau et de l'environnement, chargé de l'eau et de l'environnement n° 2247-08 du 2 hija 1429 (1er décembre 2008) portant modification de l'arrêté du ministre de l'équipement n° 1649-00 du 20 chaabane 1421 (17 novembre
+2000) relatif à la fixation du seuil de creusement de puits et de réalisation de forages à l'intérieur de la zone d'action de l'Agence du bassin hydraulique de l'Oum Er-Rbia Le secrétaire d'état auprès du ministre de l'énergie, des mines, de l'eau et de l'environnement, chargé de l'eau et de l'environnement, Vu l'arrêté du ministre de l'équipement n° 1649-00 du 20 chaabane 1421 (17 novembre 2000) relatif à la fixation du seuil de creusement de puits et de réalisation de forages à l'intérieur de la zone d'action de l'Agence du bassin hydraulique de l'Oum Er-Rbia ;
+Vu l'arrêté du ministre de l'énergie, des mines, de l'eau et de l'environnement n° 2558-07 du 19 kaada 1428 (30 novembre
+2007) portant délégation d'attributions au secrétaire d'Etat auprès du ministre de l'énergie, des mines, de l'eau et de l'environnement, chargé de l'eau et de l'environnement ;
+Sur proposition du directeur de l'Agence du bassin hydraulique de l'Oum Er-Rbia, Arrête :
