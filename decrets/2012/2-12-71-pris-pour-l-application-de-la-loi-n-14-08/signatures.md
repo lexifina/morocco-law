@@ -1,0 +1,33 @@
+# Signatures
+
+Fait à ............., le…………..
+(Signature légalisée) Annexe II Modèle de procès-verbal d'infraction Royaume du Maroc PV n° (Année/ mois/n° chronologique/ville):
+Date : jour/mois/année Informations administratives :
+Nature de l'infraction :
+Infraction aux dispositions de l'article ........ de la loi n°14-08 Copies: première visa par le délégué des pêches maritimes en date du :
+Jour/mois/année Transmission de la deuxième copie à M/Mme (contrevenant) ……………………………….
+………………………………..
+Troisième copie pour classement à la DPM de……………..............
+En date du ........
+Jour/mois/année…………………..
+……………………….
+Transaction :
+Demande transaction n°…………… En date ........
+Décision de transaction :…….
+…………………..
+En date du ................
+Date de recouvrement :
+En date du …………… Plainte En date du .......
+PV d'infraction aux dispositions de la loi n°14-08 Je soussigné :
+M. /Mme (nom et prénom), lieu d'affectation, n° de la carte professionnelle…………………………..
+Atteste qu'en date du ................. jour/mois/année à.... heure, au cours de l'opération de recherche et de contrôle effectuée conformément à la loi n°14-08 relative au mareyage, J'ai constaté ce qui suit :
+M. /Mme ........................................
+CNI .................................................
+Utilisant :
+1) Local/installation/établissement sis à ....................
+2) Moyen de transport identifié comme suit :
+………………………………………………… Et après consultation des documents suivants (Références des documents et le cas échéant, celles du ou des registres de mareyage consultés) :
+………………………………………………………………………………… ………………………………………………………………………………… ………………………………………………………………………………… …………………………………………………………………………………… A commis une infraction aux dispositions du ou des articles suivants de la loi précitée n°14- 08 (indiquer la référence de chaque article concerné) : …………………………………… En foi de quoi le présent procès-verbal a été dressé.
+Signature de l'agent Nom/prénom/qualité Signature du contrevenant En cas de refus ou d'impossibilité de signature du contrevenant, (indication faite par l'agent) ………………………………………………………...
+Fait, à ....................... le…………………... (jour/mois/année) Copie du présent procès-verbal a été remis à M./Mme ………………………..
+(contrevenant) CNI ou carte de résident n° ............... délivré le……………………….. à ………………………
