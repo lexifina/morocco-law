@@ -1,0 +1,3 @@
+# Préambule et visas
+
+Arrêté conjoint du ministre de l’économie et des finances et du ministre de l’agriculture et de la pêche maritime n°2763-15 du 20 chaoual 1436 (6 août 2015) fixant le montant et les modalités de paiement de la redevance due au titre de l’exploitation d’une madrague (BO n°6418 du 3 décembre 2015, page 4383) Le ministre de l’économie et des finances, Le ministre de l’agriculture et de la pêche maritime, Vu le décret n°2-08-562 du 13 hijja 1429 (2 décembre 2008) fixant les conditions et les modalités de délivrance et de renouvellement des autorisations d’établissement de pêche maritime, tel qu’il a été complété et modifié, notamment son article 18, Arrêtent
