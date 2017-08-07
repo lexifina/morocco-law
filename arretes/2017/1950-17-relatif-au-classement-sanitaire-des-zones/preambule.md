@@ -1,0 +1,4 @@
+# Préambule et visas
+
+Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n°1950-17 du 14 kaada 1438 (7 août 2017) relatif au classement sanitaire des zones maritimes de production conchylicole (BO n°6696 du 2 août 2018, page 1529) Le ministre de l'agriculture et de la pêche maritime, du développement rural et des eaux et forêts ; Vu la loi n°28-07 relative à la sécurité sanitaire des produits alimentaires promulguée par le dahir n°1- 10-08 du 26 safar 1431 (11 février 2010), notamment son article 6 ;
+Vu le décret n°2-10-473 du 7 chaoual 1432 (6 septembre 2011) pris pour l’application de certaines dispositions de la loi n°28-07 relative à la sécurité sanitaire des produits alimentaires, notamment son article 47, Arrête Chapitre premier : Dispositions générales
