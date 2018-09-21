@@ -1,0 +1,4 @@
+# Préambule et visas
+
+Arrêté conjoint du ministre de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre de la santé n°2300-17 du 11 moharrem 1440 (21 septembre 2018) fixant les caractéristiques d’efficacité, de toxicité et de pureté des produits de nettoyage et de désinfection et les conditions de leur utilisation dans les établissements et entreprises du secteur alimentaire et du secteur de l’alimentation animale .
+(BO n°6726 du 15/11/2018, page 1833) LE MINISTRE DE L’AGRICULTURE ET DE LA PECHE MARITIME, DU DEVELOPPEMENT RURAL ET DES EAUX ET FORETS, LE MINISTRE DE LA SANTE , Vu le décret n°2-10-473 du 7 chaoual 1432 (6 septembre 2011) pris pour l’application de certaines dispositions de la loi n°28-07 relative à la sécurité sanitaire des produits alimentaires, notamment son article 66, ARRETENT :
