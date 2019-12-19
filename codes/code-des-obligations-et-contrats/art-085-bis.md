@@ -1,0 +1,9 @@
+# Article 85 bis
+
+Les instituteurs et les fonctionnaires du service de la jeunesse et des sportssont responsables du dommage causé par les enfants et jeunes gens pendant le temps qu'ils sont sous leur surveillance.
+Les fautes, imprudences ou négligences invoquées contre eux, comme ayant causé le fait dommageable, devront être prouvées conformément au droit commun par le demandeur à l'instance.
+Dans tous les cas où la responsabilité des membres de l'enseignement public et des fonctionnaires du service de la jeunesse sera engagée à la suite ou à l'occasion d'un fait dommageable commis soit par les enfants ou jeunes gens qui leur sont confiés à raison de leurs fonctions, soit à ces enfants ou jeunes gens dans les mêmes conditions, la responsabilité de l'Etat sera substituée à celle de ces agents qui ne pourront jamais être mis en cause devant les tribunaux civils par la victime ou ses représentants. Il en sera ainsi toutes les fois que, pendant la scolarité ou en dehors de la scolarité, dans un but d'éducation morale ou physique non interdit par les règlements, les enfants ou jeunes gens confiés ainsi audits agents se trouveront sous la surveillance de ces derniers.
+Une action récursoire pourra être exercée par l'Etat soit contre les membres de l'enseignement et les fonctionnaires du service de la jeunesse, soit contre les tiers, conformément au droit commun.
+Dans l'action principale, les fonctionnaires contre lesquels l'Etat pourrait éventuellement exercer l'action récursoire ne pourront être entendus comme témoins.
+L'action en responsabilité exercée par la victime, ses parents ou ses ayants droit, intentée contre l'Etat ainsi responsable du dommage, sera portée devant le tribunal de première instance ou le juge de paix du lieu où le dommage a été causé.
+La prescription, en ce qui concerne la réparation des dommages prévus par le présent article, sera acquise par trois années à partir du jour où le fait dommageable a été commis.
