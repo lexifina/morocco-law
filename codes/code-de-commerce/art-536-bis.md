@@ -1,0 +1,3 @@
+# Article 536 bis
+
+Lorsque la cession d’une créance professionnelle a lieu en vertu d’un acte de droit étranger, à titre d’aliénation ou à titre de garantie d’une ou de plusieurs créances, la nantissement de créances professionnelles est rendu opposable au Maroc à l’égard du débiteur qui y réside habituellement, dans les conditions prévus par la loi applicable aux créances objet de la cession, sous réserve des conventions internationales relatives à la reconnaissance mutuelles des procédures légales, judiciaires et administratives ratifiées par le Royaume du Maroc ou auxquelles il a adhéré, ainsi que des dispositions législatives relatives à l’ordre public.
