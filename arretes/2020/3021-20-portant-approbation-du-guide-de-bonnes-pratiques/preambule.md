@@ -1,0 +1,3 @@
+# Préambule et visas
+
+Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n°3021-20 du 21 rabii II 1442 (7 décembre 2020) portant approbation du guide de bonnes pratiques sanitaires relatif au secteur des fruits rouges frais. (BO n° 6954 du 21/01/2021, page 131) LE MINISTRE DE L’AGRICULTURE, DE LA PECHE MARITIME, DU DEVELOPPEMENT RURAL ET DES EAUX ET FORETS, Vu le décret n°2-10-473 du 7 choual 1432 (6 septembre 2011) pris pour l’application de certaines dispositions de la loi n°28-07 relative à la sécurité sanitaire des produits alimentaires, notamment son article 43, Arrête:
