@@ -1,0 +1,10 @@
+# Signatures
+
+Fait à Fès, le 3 hija 1442 (14 juillet 2021).
+Pour contreseing :
+Le Chef du gouvernement, SAAD DINE EL OTMANI.
+* * * Loi n° 51-20 modifiant et complétant la loi n° 103-12 relative aux établissements de crédit et organismes assimilés Article premier Les dispositions des articles 21 et 112 de la loi n°103-12 relative aux établissements de crédit et organismes assimilés, promulguée par le dahir n° l-14-193 du 1er rabii I 1436 (24 décembre 2014) telle que modifiée et complétée, sont complétées comme suit :
+« Article 21. – ( Un quatrième alinéa ajouté) « Ladite circulaire conjointe est homologuée par arrêté du « ministre chargé des finances et publiée au Bulletin officiel. » « Article 112. – ( Un sixième alinéa ajouté) « Les informations provenant d’une autorité étrangère « compétente ne peuvent être divulguées par Bank Al-Maghrib « sans l’accord exprès de ladite autorité et, le cas échéant, « exclusivement aux fins pour lesquelles cette autorité a donné « son accord. » Article 2 Les dispositions de l’article 51 de la loi précitée n° 103-12 sont abrogées et remplacées comme suit :
+« Article 51. – Le ministre chargé des finances « peut fixer par arrêtés, après avis du comité des « établissements de crédit, pour l’ensemble des « établissements de crédit, pour chaque catégorie ou « sous-catégorie de ces établissements et/ou « pour chaque type d’opération de crédit, les taux « maximum des intérêts conventionnels et les taux « d’intérêt pouvant être appliqués à l’épargne et « aux opérations de crédit et les conditions de distribution de « crédits. » Le texte en langue arabe a été publié dans l’édition générale du « Bulletin officiel » n° 7008 du 18 hija 1442 (29 juillet 2021).
+Dahir n° 1-21-78 du 3 hija 1442 (14 juillet 2021) portant promulgation de la loi n° 83-20 édictant des dispositions relatives au prêt de titres.
+LOUANGE A DIEU SEUL ! (Grand Sceau de Sa Majesté Mohammed VI) Que l’on sache par les présentes - puisse Dieu en élever et en fortifier la teneur ! Que Notre Majesté Chérifienne, Vu la Constitution, notamment ses articles 42 et 50,
