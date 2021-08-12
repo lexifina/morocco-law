@@ -1,0 +1,4 @@
+# Préambule et visas
+
+Nº 7032 – 14 rabii I 1443 (21-10-2021) BULLETIN OFFICIEL Arrêté conjoint du ministre de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre de l’industrie, du commerce et de l’économie verte et numérique n° 2274-21 du 3 moharrem 1443 (12 août 2021) fixant le niveau de représentativité des organisations professionnelles composant l’interprofession de la filière céréales-légumineuses alimentaires.
+LE MINISTRE DE L’AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS, LE MINISTRE DE L’INDUSTRIE, DU COMMERCE ET DE L’ÉCONOMIE VERTE ET NUMÉRIQUE, Vu le décret n° 2-12-602 du 9 rejeb 1434 (20 mai 2013 ) pris pour l’application de la loi n° 03-12 relative aux interprofessions agricoles et halieutiques, notamment son article 2, ARRÊTENT :
