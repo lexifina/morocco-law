@@ -1,0 +1,4 @@
+# Préambule et visas
+
+BULLETIN OFFICIEL Nº 7014 – 10 moharrem 1443 (19-8-2021) Arrêté du ministre de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 693-21 du 2 chaabane 1442 (16 mars 2021) fixant le modèle du procès-verbal d’infraction prévu à l’article 32 de la loi n° 15-12 relative à la prévention et la lutte contre la pêche illicite, non déclarée et non réglementée. LE MINISTRE DE L’AGRICULTURE, DE LA PÊCHE MARITIME, du développement rural et des eaux et forêts, Vu le décret n° 2-17-455 du 9 chaabane 1439 (26 avril 2018) pris pour l’application de certaines dispositions du Titre I de la loi n° 15-12 relative à la prévention et la lutte contre la pêche illicite, non déclarée et non réglementée et modifiant et complétant le dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime, notamment son article 17 ;
+Après consultation des chambres des pêches maritimes, ARRÊTE :
