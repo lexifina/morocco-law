@@ -1,0 +1,8 @@
+# Préambule et visas
+
+Nº 7132 – 9 rabii I 1444 (6-10-2022) BULLETIN OFFICIEL Arrêté du ministre de l’agriculture, de la pêche maritime du développement rural et des eaux et forêts n° 1112-22 du 12 ramadan 1443 (14 avril 2022) relatif au plan d’aménagement et de gestion de la pêcherie de l’espadon (Xiphias gladius).
+LE MINISTRE DE L’AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS, Vu le décret n° 2-18-722 du 1er safar 1441 (30 septembre 2019) relatif aux plans d’aménagement et de gestion des pêcheries, notamment ses articles 3, 4, 5, 6, 7, 12 et 13 ;
+Vu l’arrêté du ministre des pêches maritimes, des affaires administratives et des relations avec le parlement n° 2964-97 du 18 rejeb 1418 (19 novembre 1997) relatif aux attributions et à l’organisation des délégations des pêches maritimes, tel que modifié et complété ;
+Considérant la nécessité de conservation des espèces dans les eaux maritimes marocaines notamment l’espadon, en conformité avec les mesures prises dans le cadre de la Commission internationale pour la conservation des thonidés de l’Atlantique (ICCAT), instituée par la Convention internationale pour la conservation des thonidés de l’Atlantique faite à Rio de Janeiro, le 14 mai 1966 et les Protocoles y relatifs auxquels le Royaume du Maroc est Partie, notamment ses recommandations n° 16-03 sur la conservation de l’espadon de l’Atlantique, telle que modifiée et n°16-05 sur l’établissement d’un programme pluriannuel de l’espadon de la Méditerranée ;
+Après avis de l’Institut national de recherche halieutique ;
+Après consultation des chambres des pêches maritimes, ARRÊTE :
