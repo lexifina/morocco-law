@@ -1,0 +1,5 @@
+# Préambule et visas
+
+Décret n°2-23-303 du 2 rabii I 1445 (18 septembre 2023) fixant les conditions d’aptitude physique et de contrôle médical des marins pêcheurs (BO n°7236 du 5 octobre 2023, page 2205) Le chef du gouvernement, Vu l’annexe I du dahir du 28 joumada II 1337 (31 mars 1919) formant code de commerce maritime, tel que modifié et complété notamment par la loi n°16-07 promulguée par le dahir n°1-10-121 du 3 chaabane 1431 (16 juillet 2010), notamment son article 167 bis ;
+Vu le décret n°2-15-890 du 14 joumada II 1437 (24 mars 2016) fixant les attributions et l’organisation du ministère de l'agriculture et de la pêche maritime - Département de la pêche maritime - ; Considérant les dispositions de la convention n°188 concernant le travail dans le secteur de la pêche, adoptée par la conférence générale de l’Organisation internationale du Travail à sa 96ème session tenue à Genève le 15 juin 2007, publiée par le dahir n°1-10-61 du 4 kaada 1434 (11 septembre 2013); Après avis des chambres des pêches maritimes ;
+Après délibération en Conseil du gouvernement, réuni le 21 safar 1445 (7 septembre 2023), DÉCRÈTE :
