@@ -1,0 +1,33 @@
+{
+ "country": "MA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Const.",
+   "title": "Constitution du Royaume du Maroc (2011)",
+   "url": "https://adala.justice.gov.ma/",
+   "versions": [
+    {
+     "from": "2011-07-30",
+     "units": 181,
+     "source_url": "https://adala.justice.gov.ma/",
+     "sha256": "fd6f2f4c1cf16b707e963ca91bdd1baeac75a29ec250a0627888ecdb082722b5"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Code pénal (dahir n° 1-59-413 du 28 joumada II 1382 (26 novembre 1962) portant approbation du texte du Code pénal), consolidé jusqu'à la loi n° 33-18",
+   "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma088fr.pdf",
+   "versions": [
+    {
+     "from": "2019-03-11",
+     "units": 608,
+     "source_url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma088fr.pdf",
+     "sha256": "1c868cbebb10af990f2f76bcf5422ff6ee403f64e01aa4579354edbad6c97c5e"
+    }
+   ]
+  }
+ ]
+}

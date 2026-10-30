@@ -1,0 +1,10 @@
+{
+  "path": "ma",
+  "code": "MA",
+  "name": "Morocco",
+  "level": "country",
+  "repo": "https://github.com/lexifina/morocco-law",
+  "build": "built: Constitution (2011) and Code pénal (consolidated to loi 33-18, 2019), French text (2 acts, oldest versions available)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
