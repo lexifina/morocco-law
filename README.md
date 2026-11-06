@@ -1,5 +1,7 @@
 # Morocco: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Morocco's national law, which global-law reads at `morocco/national/acts/`.
+
 The Constitution of the Kingdom of Morocco (2011) and the Code pénal as a git repository: one file per article, so `git blame` and `git log` work on the text. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ma/`.
 
 **What is in it now**
