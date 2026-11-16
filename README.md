@@ -1,37 +1,43 @@
-# Morocco: law history in git
+# Maroc : l’histoire du droit dans git
 
+**Français** · [English](README.en.md)
 
-The law of Morocco as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every line; `git log` lists every change to an article; picking a date gives the text in force that day.
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/fr/effort-dark.svg">
+<img alt="Le droit marocain dans ce dépôt : ce qu’il contient, les modifications par année d’entrée en vigueur, l’exhaustivité au regard des sources officielles et l’exactitude de son contenu" src="data/fr/effort-light.svg" width="880">
+</picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Morocco's national law, which global-law reads at `morocco/national/acts/`.
+Le droit du Maroc sous la forme d’un historique git : un fichier par article, un commit par version à la date de son entrée en vigueur, et la loi auteur de chaque modification comme auteur du commit. `git blame` indique la loi à l’origine de chaque ligne ; `git log` liste toutes les modifications d’un article ; le choix d’une date donne le texte en vigueur ce jour-là.
 
-**What is in it now:** two acts, one version each: the Constitution of 2011 (its preamble and 180 articles), as promulgated and not amended since, and the Code pénal of 1962 as consolidated to loi n° 33-18 of 2019 (608 articles). Each act's folder has a `README.md` listing its articles; [`data/versions.json`](data/versions.json) gives each version's day and source.
+Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Maroc, que global-law lit sous `morocco/national/acts/`.
 
-Each act is a folder with one file per article, `<act>/art-NNN.md` (`constitution/art-001.md` is Article premier of the Constitution, `code-penal/art-262-bis.md` Article 262 bis of the Code pénal); `constitution/preambule.md` is the preamble.
+**Contenu actuel :** deux textes, en une version chacun : la Constitution de 2011 (son préambule et 180 articles), telle que promulguée et non modifiée depuis, et le Code pénal de 1962 dans sa version consolidée jusqu’à la loi n° 33-18 de 2019 (608 articles). Le dossier de chaque texte contient un `README.md` listant ses articles ; [`data/versions.json`](data/versions.json) donne la date et la source de chaque version.
 
-The text is in French: the Ministry of Justice's French version of the Constitution, and WIPO Lex's copy of the Code pénal. The authoritative text is the Arabic one in the Bulletin officiel; it and an English translation are not part of this record.
+Chaque texte est un dossier avec un fichier par article, `<act>/art-NNN.md` (`constitution/art-001.md` est l’article premier de la Constitution, `code-penal/art-262-bis.md` l’article 262 bis du Code pénal) ; `constitution/preambule.md` est le préambule.
 
-## Questions as git commands
+Le texte est en français : la version française de la Constitution publiée par le Ministère de la Justice, et la copie du Code pénal de WIPO Lex. Le texte qui fait foi est le texte arabe publié au Bulletin officiel ; ni celui-ci ni une traduction anglaise ne font partie de ce corpus.
 
-| Question | Command |
+## Questions sous forme de commandes git
+
+| Question | Commande |
 | --- | --- |
-| Every change to Article 1 of the Constitution | `git log -p --word-diff -- constitution/art-001.md` |
-| Which law wrote each line of Article 1? | `git blame constitution/art-001.md` |
-| Every version of the Constitution, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- "constitution/art-*"` |
-| Article 1 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 constitution art-001` |
+| Toutes les modifications de l’article premier de la Constitution | `git log -p --word-diff -- constitution/art-001.md` |
+| Quelle loi a rédigé chaque ligne de l’article premier ? | `git blame constitution/art-001.md` |
+| Toutes les versions de la Constitution, avec la date d’entrée en vigueur de chacune | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- "constitution/art-*"` |
+| L’article premier tel qu’en vigueur au 1er janvier 2026 | `python tools/on.py 2026-01-01 constitution art-001` |
 
-Each act has one version here, so each list has one entry.
+Chaque texte n’ayant ici qu’une version, chaque liste ne comporte qu’une entrée.
 
-**Outside git**, we also host this record publicly, for free:
+**En dehors de git**, nous hébergeons aussi ce corpus publiquement, gratuitement :
 
-- **[Ask Claude about Moroccan law](https://global-law.lexifina.com/v1/try_claude?country=morocco)**: opens Claude with a first question ready.
-- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=morocco)**: the same question in ChatGPT.
-- **[Search Moroccan law on our site](https://lexifina.com/law?country=morocco&q=vol)**: a search for "vol" (theft), with each provision's text and its versions, no account needed.
-- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=vol&jurisdiction=morocco)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Interroger Claude sur le droit marocain](https://global-law.lexifina.com/v1/try_claude?country=morocco)** : ouvre Claude avec une première question prête.
+- **[Interroger ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=morocco)** : la même question dans ChatGPT.
+- **[Rechercher dans le droit marocain sur notre site](https://lexifina.com/law?country=morocco&q=vol)** : une recherche de « vol », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour développeurs](https://global-law.lexifina.com/v1/search_law?query=vol&jurisdiction=morocco)** : la même recherche au format JSON, sans clé. Voir la [documentation ici](https://lexifina.com/api/global-law).
 
-Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
+Les deux assistants lisent le corpus au moyen du connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
-**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+**L’héberger vous-même, simplement.** Il suffit de git et de Python, et les outils s’exécutent sur votre machine :
 
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
@@ -39,51 +45,53 @@ python3 tools/countries.py add morocco/national/acts
 python3 tools/law.py show 2026-01-01 morocco/national/acts/constitution/art-001.md
 ```
 
-Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un serveur MCP local doté des mêmes outils ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Casablanca, on the day the version took effect, and carries it in its `In-force:` trailer:
+Chaque commit est daté à midi, heure Africa/Casablanca, du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` :
 
-- the Constitution: 30 July 2011, the day it appeared in the Bulletin officiel n° 5964 bis; it was adopted by referendum on 1 July 2011, and Dahir n° 1-11-91 promulgating it is dated 29 July 2011 (the `Enacted:` trailer);
-- the Code pénal: 11 March 2019, the date of dahir n° 1-19-44, which promulgated loi n° 33-18, the last amendment the consolidated text takes in.
+- la Constitution : le 30 juillet 2011, date de sa parution au Bulletin officiel n° 5964 bis ; elle a été adoptée par référendum le 1er juillet 2011, et le Dahir n° 1-11-91 portant sa promulgation est daté du 29 juillet 2011 (le trailer `Enacted:`) ;
+- le Code pénal : le 11 mars 2019, date du dahir n° 1-19-44 portant promulgation de la loi n° 33-18, dernière modification intégrée dans le texte consolidé.
 
-The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only in the oldest version available, is credited to the publisher as the repository names it, `Ministère de la Justice du Royaume du Maroc (Adala)`, although its text comes from WIPO Lex. The committer is Lexifina.
+La Constitution est attribuée au `Dahir n° 1-11-91`. Le Code pénal, présent ici uniquement dans la plus ancienne version disponible, est attribué à l’éditeur sous le nom que lui donne le dépôt, `Ministère de la Justice du Royaume du Maroc (Adala)`, bien que son texte provienne de WIPO Lex. Le committer est Lexifina.
 
-## How it is checked
+## Méthode de vérification
 
-- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, compares it file by file with the corpus it was built from, and checks that every commit's trailers parse, with no merge commits and no commit dated in the future.
-- The same corpus always gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256, the builders' blob hashes and the decisions made by hand. It also records that, for the published build, that check had not yet been run and no second build had been compared.
-- Both texts come from PDFs with a text layer and are reproduced unchanged apart from layout.
+- `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, la compare fichier par fichier au corpus à partir duquel elle a été construite, et vérifie que les trailers de chaque commit sont analysables, sans commit de fusion ni commit daté dans le futur.
+- Un même corpus donne toujours les mêmes empreintes de commit ; [`REPRODUCE.md`](REPRODUCE.md) donne l’empreinte sha256 du corpus, les empreintes de blob des scripts de construction et les choix faits manuellement. Il consigne également que, pour la construction publiée, ce contrôle n’avait pas encore été exécuté et qu’aucune seconde construction n’avait été comparée.
+- Les deux textes proviennent de PDF dotés d’une couche texte et sont reproduits sans modification, hormis la mise en page.
 
-## What it does not show
+## Ce qu’il ne montre pas
 
-- **Most of Moroccan law.** Only these two acts are here: no other laws, dahirs or decrees, and no case law.
-- **The Code pénal's history.** It is one consolidated text: not the 1962 text, the amending laws are not separate versions, and amendments made after loi n° 33-18 are not applied.
-- **Eight articles of the Code pénal.** Articles 19 to 23 are missing from the WIPO Lex PDF's text layer, and articles 289 to 291 are not printed in it (repealed), so they have no file.
-- **Headings and notes.** The Constitution's Titre headings and page numbers, the Code pénal's Livre, Titre, Chapitre and Section headings, and its footnotes naming each amending law are left out; the promulgating dahir is not a file.
-- **The earlier Constitutions** (1962 to 1996).
+- **L’essentiel du droit marocain.** Seuls ces deux textes figurent ici : aucune autre loi, aucun autre dahir ou décret, et aucune jurisprudence.
+- **L’historique du Code pénal.** Il s’agit d’un texte consolidé unique : le texte de 1962 n’y figure pas, les lois modificatives ne constituent pas des versions distinctes, et les modifications postérieures à la loi n° 33-18 ne sont pas appliquées.
+- **Huit articles du Code pénal.** Les articles 19 à 23 sont absents de la couche texte du PDF de WIPO Lex, et les articles 289 à 291 n’y sont pas imprimés (abrogés) ; ils n’ont donc pas de fichier.
+- **Les intitulés et les notes.** Les intitulés des Titres et les numéros de page de la Constitution, les intitulés des Livres, Titres, Chapitres et Sections du Code pénal ainsi que ses notes de bas de page désignant chaque loi modificative sont omis ; le dahir de promulgation ne fait pas l’objet d’un fichier.
+- **Les Constitutions antérieures** (1962 à 1996).
 
 ## Sources
 
-| Source | Kind | Past versions | Notes |
+| Source | Nature | Versions antérieures | Remarques |
 | --- | --- | --- | --- |
-| [Adala](https://adala.justice.gov.ma/) (Ministère de la Justice) | Official portal, French version | the Constitution as promulgated, never amended | The Constitution, retrieved 28 October 2026 |
-| [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/19795) | Official text republished by WIPO (MA088) | one consolidated text | The Code pénal as amended to loi n° 33-18, retrieved 30 October 2026 |
+| [Adala](https://adala.justice.gov.ma/) (Ministère de la Justice) | Portail officiel, version française | la Constitution telle que promulguée, jamais modifiée | La Constitution, consultée le 28 octobre 2026 |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/19795) | Texte officiel republié par l’OMPI (MA088) | un texte consolidé | Le Code pénal tel que modifié jusqu’à la loi n° 33-18, consulté le 30 octobre 2026 |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Moroccan loi n° 2-00, article 8(a), excludes official legislative texts from copyright protection; neither source states a licence. Lexifina's arrangement of the repository, its tables, commit messages and tools may be reused under CC BY 4.0.
+Voir [`LICENSE`](LICENSE). La loi marocaine n° 2-00, en son article 8(a), exclut les textes législatifs officiels de la protection du droit d’auteur ; aucune des deux sources n’indique de licence. L’organisation du dépôt par Lexifina, ses tableaux, ses messages de commit et ses outils peuvent être réutilisés sous licence CC BY 4.0.
 
-No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code (see [`REPRODUCE.md`](REPRODUCE.md)).
+Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction ; les scripts ont été écrits par Claude Code (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
-## More
+Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
 
-From [lexifina/global-law](https://github.com/lexifina/global-law):
+## En savoir plus
 
-- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
-- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
-- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
-- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
-- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
-- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
+Dans le dépôt [lexifina/global-law](https://github.com/lexifina/global-law) (pages en anglais) :
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): toutes les fonctionnalités et ce que chaque corpus doit prendre en charge (`git blame`, `law.py`, outils MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions et réponses · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposer une modification · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): serveur MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): comment il a été construit · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): à quel point chaque corpus est à jour · [Surveillance](https://github.com/lexifina/global-law/tree/main/monitoring): si les mises à jour fonctionnent · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): comment chaque source officielle est surveillée pour repérer les modifications
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidité des outils, mesurée
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): graphiques et liens à travers le droit du monde entier
+- [Vulnérabilités](https://github.com/lexifina/global-law/tree/main/vulnerabilities): erreurs dans les textes tels qu’ils ont été publiés
