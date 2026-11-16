@@ -61,6 +61,7 @@ The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, compares it file by file with the corpus it was built from, and checks that every commit's trailers parse, with no merge commits and no commit dated in the future.
 - The same corpus always gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256, the builders' blob hashes and the decisions made by hand. It also records that, for the published build, that check had not yet been run and no second build had been compared.
 - Both texts come from PDFs with a text layer and are reproduced unchanged apart from layout.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only 
 See [`LICENSE`](LICENSE). Moroccan loi n° 2-00, article 8(a), excludes official legislative texts from copyright protection; neither source states a licence. Lexifina's arrangement of the repository, its tables, commit messages and tools may be reused under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
