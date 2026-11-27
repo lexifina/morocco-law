@@ -175,7 +175,7 @@
    "id": "dahirs/1972/1-72-277-relatif-a-l-attribution-a-des-agriculteurs-de",
    "kind": "dahir",
    "number": "1-72-277",
-   "date": "1973-09-26",
+   "date": "1972-12-29",
    "title": "Dahir portant loi n° 1-72-277 du 22 kaada 1392 (29 décembre 1972) relatif à l'attribution à des agriculteurs de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat.",
    "source": "https://faolex.fao.org/en/documents/LEX-FAOC066538/dahir-portant-loi-n-1-72-277-du-22-kaada-1392-29-decembre-19-mar-1972",
    "file": "https://faolex.fao.org/docs/pdf/mor66538.pdf",
@@ -194,15 +194,15 @@
    "articles": 23
   },
   {
-   "id": "dahirs/1973/1-formant-reglement-sur-la-peche-maritime-b-o-n",
+   "id": "dahirs/1973/1-73-211-relatif-a-la-mer-territoriale-du-royaume-du-maroc",
    "kind": "dahir",
-   "number": "1",
-   "date": "1973-11-23",
-   "title": "Dahir portant loi nº 1-73-255 formant règlement sur la pêche maritime.",
-   "source": "https://faolex.fao.org/en/documents/LEX-FAOC001493/dahir-portant-loi-n-1-73-255-formant-reglement-sur-la-peche-mar-1973",
-   "file": "https://faolex.fao.org/docs/pdf/mor1493.pdf",
+   "number": "1-73-211",
+   "date": "1973-03-02",
+   "title": "Dahir portant loi n° 1-73-211 du 26 moharrem 1393 (2 mars 1973) relatif à la mer territoriale du Royaume du Maroc.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC236610/dahir-portant-loi-n-1-73-211-du-26-moharrem-1393-2-mars-1973-mar-1973",
+   "file": "https://faolex.fao.org/docs/pdf/mor236610.pdf",
    "text_layer": "born-digital",
-   "articles": 57
+   "articles": 3
   },
   {
    "id": "dahirs/1993/1-93-230-relatif-a-l-ordre-national-des-veterinaires",
@@ -227,17 +227,6 @@
    "articles": 22
   },
   {
-   "id": "lois/1973/1-81-instituant-une-zone-economique-exclusive-de-200",
-   "kind": "loi",
-   "number": "1-81",
-   "date": "1973-03-02",
-   "title": "Dahir portant loi n° 1-73-211 du 26 moharrem 1393 (2 mars 1973) relatif à la mer territoriale du Royaume du Maroc.",
-   "source": "https://faolex.fao.org/en/documents/LEX-FAOC236610/dahir-portant-loi-n-1-73-211-du-26-moharrem-1393-2-mars-1973-mar-1973",
-   "file": "https://faolex.fao.org/docs/pdf/mor236610.pdf",
-   "text_layer": "born-digital",
-   "articles": 3
-  },
-  {
    "id": "lois/1976/1-76-350-relative-a-l-organisation-de-la-participation-des",
    "kind": "loi",
    "number": "1-76-350",
@@ -247,17 +236,6 @@
    "file": "https://faolex.fao.org/docs/pdf/mor2839.pdf",
    "text_layer": "born-digital",
    "articles": 14
-  },
-  {
-   "id": "lois/1977/7-79-du-17-hija-1399-8-novembre-1979-par-le-dahir-n-1",
-   "kind": "loi",
-   "number": "7-79",
-   "date": "1977-09-19",
-   "title": "Dahir portant loi n° 1-75-292 du 5 chaoual 1397 (19 septembre 1977) édictant des mesures propres à garantir les animaux domestiques contre les maladies contagieuses tel qu’il à été modifie et complété par le dahir n° 1-79-224 portant promulgation de la loi n° 7-79 du 17 hija 1399 (8 novembre 1979), par le dahir n° 1-96-254 portant promulgation de la loi n° 25-96 du 12 ramadan 1417 (21 janvier1997), le dahir n° 1-02-254 portant promulgation de la loi n° 46 -01 du 25 rejeb 1423 (3 octobre 2002), et le dahir n° 1-06-51 portant promulgation de la loi n° 06-05 du 15 moharrem 1427 (14 février 2006).",
-   "source": "https://faolex.fao.org/en/documents/LEX-FAOC004020/dahir-portant-loi-n-1-75-292-du-5-chaoual-1397-19-septembre-mar-1977",
-   "file": "https://faolex.fao.org/docs/pdf/mor004020.pdf",
-   "text_layer": "born-digital",
-   "articles": 12
   },
   {
    "id": "lois/1984/13-83-relative-a-la-repression-des-fraudes-sur-les",
@@ -293,9 +271,9 @@
    "articles": 25
   },
   {
-   "id": "lois/1997/04-97-formant-statut-des-chambres-des-peches-maritimes",
+   "id": "lois/1997/4-97-formant-statut-des-chambres-des-peches-maritimes",
    "kind": "loi",
-   "number": "04-97",
+   "number": "4-97",
    "date": "1997-04-03",
    "title": "Dahir nº 1-97-88 portant promulgation de la loi nº 4-97 formant statut des chambres des pêches maritimes.",
    "source": "https://faolex.fao.org/en/documents/LEX-FAOC011397/dahir-n-1-97-88-portant-promulgation-de-la-loi-n-4-97-forman-mar-1997",
