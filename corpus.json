@@ -1567,6 +1567,18 @@
    "gaps": 13
   },
   {
+   "id": "codes/code-des-obligations-et-contrats/ar",
+   "kind": "dahir",
+   "number": "18-00",
+   "date": "2026-07-16",
+   "title": "ظهير بمثابة قانون الالتزامات والعقود",
+   "source": "https://adala.justice.gov.ma/resources/19",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/07/29/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%A8%D9%85%D8%AB%D8%A7%D8%A8%D8%A9%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%AF%20%D8%B5%D9%8A%D8%BA%D8%A9%20%D9%85%D8%AD%D9%8A%D9%86%D8%A9-1785316295256.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 1141
+  },
+  {
    "id": "codes/code-penal",
    "kind": "code",
    "date": "2019-03-11",
@@ -2828,6 +2840,18 @@
    "articles": 46
   },
   {
+   "id": "lois/1986/23-86",
+   "kind": "loi",
+   "number": "23-86",
+   "date": "1987-02-18",
+   "title": "القانون المتعلق بتنظيم المصاريف القضائية في الميدان الجنائي",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/10/21/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.86.238%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2023.86%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82-1792581727451.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 59
+  },
+  {
    "id": "lois/1993/41-90-instituant-des-tribunaux-administratifs",
    "kind": "loi",
    "number": "41-90",
@@ -2927,6 +2951,18 @@
    "articles": 0
   },
   {
+   "id": "lois/2000/2-00",
+   "kind": "loi",
+   "number": "2-00",
+   "date": "2026-08-10",
+   "title": "ظهير شريف رقم 1.00.20 صادر في 9 ذي القعدة 1420 (15 فبراير 2000) بتنفيذ القانون رقم 00-2 المتعلق بحقوق المؤلف والحقوق المجاورة",
+   "source": "https://adala.justice.gov.ma/resources/60",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/09/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.00.20%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%88%D8%B1%D8%A9-1788944861195.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 8
+  },
+  {
    "id": "lois/2001/45-00",
    "kind": "loi",
    "number": "45-00",
@@ -2949,6 +2985,18 @@
    "text_layer": "born-digital",
    "language": "ar",
    "articles": 41
+  },
+  {
+   "id": "lois/2001/50-00",
+   "kind": "loi",
+   "number": "50-00",
+   "date": "2001-07-19",
+   "title": "ظهير شريف رقم 1.01.127 صادر في 29 من ربيع الأول 1422 (22 يونيو 2001) بتنفيذ القانون رقم 50.00 المتعلق بالتراجمة المقبولين لدى المحاكم (نسخ)",
+   "source": "https://adala.justice.gov.ma/resources/912",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/04/30/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.01.127%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2050.00%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AA%D8%B1%D8%A7%D8%AC%D9%85%D8%A9-1777562819843.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 57
   },
   {
    "id": "lois/2002/32-00-modifiant-et-completant-la-loi-n-42-95-relative",
@@ -3120,6 +3168,18 @@
    "articles": 2
   },
   {
+   "id": "lois/2011/24-09",
+   "kind": "loi",
+   "number": "24-09",
+   "date": "2011-09-22",
+   "title": "ظهير شريف يتعلق بتنفيذ القانون رقم 24.09 المتعلق بسلامة المنتوجات والخدمات وبتتميم الظهير الشريف بمثابة قانون الالتزامات والعقود",
+   "source": "https://adala.justice.gov.ma/resources/867",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/11/01/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.11.140%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2024.09%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%B3%D9%84%D8%A7%D9%85%D8%A9%20%D8%A7%D9%84%D9%85%D9%86%D8%AA%D9%88%D8%AC%D8%A7%D8%AA.._-1730458560308.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 65
+  },
+  {
    "id": "lois/2012/69-16-completant-larticle-4-de-la-loi-n-39-08-relative",
    "kind": "loi",
    "number": "69-16",
@@ -3129,6 +3189,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor226708.pdf",
    "text_layer": "born-digital",
    "articles": 334
+  },
+  {
+   "id": "lois/2014/066-13",
+   "kind": "loi",
+   "number": "066-13",
+   "date": "2026-03-16",
+   "title": "القانون التنظيمي المتعلق بالمحكمة الدستورية",
+   "source": "https://adala.justice.gov.ma/resources/671",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/03/24/%D8%B8%D9%80%D9%87%D9%80%D9%8A%D9%80%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%80%D9%81%20%D8%B1%D9%82%D9%80%D9%85%201.14.139%20_%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A%20%D8%B1%D9%82%D9%85%20066.13-1774362576103.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 47
   },
   {
    "id": "lois/2014/104-12-relative-a-la-liberte-des-prix-et-de-la",
@@ -3142,6 +3214,18 @@
    "articles": 110
   },
   {
+   "id": "lois/2014/105-12",
+   "kind": "loi",
+   "number": "105-12",
+   "date": "2014-05-19",
+   "title": "القانون المتعلق بالمجلس الأعلى للتربية والتكوين والبحث العلمي",
+   "source": "https://adala.justice.gov.ma/resources/921",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.14.100%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D8%AD%D8%AB%20%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-1733739000432.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 35
+  },
+  {
    "id": "lois/2014/112-12-relative-aux-cooperatives",
    "kind": "loi",
    "number": "112-12",
@@ -3151,6 +3235,30 @@
    "file": "https://faolex.fao.org/docs/pdf/mor225203.pdf",
    "text_layer": "publisher-ocr",
    "articles": 108
+  },
+  {
+   "id": "lois/2014/128-12",
+   "kind": "loi",
+   "number": "128-12",
+   "date": "2014-08-14",
+   "title": "ظهير شريف بتنفيذ القانون التنظيمي رقم 128.12 المتعلق بالمجلس الاقتصادي والاجتماعي والبيئي",
+   "source": "https://adala.justice.gov.ma/resources/672",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/10/%D8%B8%D9%80%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.14.124%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%20%D9%88%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-1733842713939.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 40
+  },
+  {
+   "id": "lois/2014/20-13",
+   "kind": "loi",
+   "number": "20-13",
+   "date": "2022-12-15",
+   "title": "القانون المتعلق بمجلس المنافسة",
+   "source": "https://adala.justice.gov.ma/resources/914",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/10/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.14.117%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2020.13%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B3%D8%A9-1733842352240.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 20
   },
   {
    "id": "lois/2014/62-12-relative-a-lorganisation-de-la-profession-de",
@@ -3197,6 +3305,30 @@
    "articles": 33
   },
   {
+   "id": "lois/2016/78-14",
+   "kind": "loi",
+   "number": "78-14",
+   "date": "2017-08-15",
+   "title": "القانون المتعلق بالمجلس الاستشاري للأسرة والطفولة",
+   "source": "https://adala.justice.gov.ma/resources/922",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.16.102%20%D8%A8%D8%AA%D9%86%D8%B1%D8%A9%20%D9%88%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9-1733739066246.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 21
+  },
+  {
+   "id": "lois/2016/90-15",
+   "kind": "loi",
+   "number": "90-15",
+   "date": "2016-06-23",
+   "title": "القانون التنظيمي المتعلق بمجلس الوصاية",
+   "source": "https://adala.justice.gov.ma/resources/670",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/01/30/%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D9%88%D8%B5%D8%A7%D9%8A%D8%A9-1706626465905.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 22
+  },
+  {
    "id": "lois/2018/31-13-relative-au-droit-d-acces-a-l-information",
    "kind": "loi",
    "number": "31-13",
@@ -3206,6 +3338,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor227131.pdf",
    "text_layer": "publisher-ocr",
    "articles": 30
+  },
+  {
+   "id": "lois/2018/89-15",
+   "kind": "loi",
+   "number": "89-15",
+   "date": "2018-01-18",
+   "title": "القانون المتعلق بالمجلس الاستشاري للشباب والعمل الجمعوي",
+   "source": "https://adala.justice.gov.ma/resources/923",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/09/%D8%B8%D9%87%D9%8A%D8%B1%201.17.112%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%8A%20%D9%84%D9%84%D8%B4%D8%A8%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D8%B9%D9%85%D9%84%20%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%88%D9%8A-1733738928500.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 27
   },
   {
    "id": "lois/2019/62-17-relative-a-la-tutelle-administrative-sur-les",
@@ -3239,6 +3383,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor225913.pdf",
    "text_layer": "born-digital",
    "articles": 4
+  },
+  {
+   "id": "lois/2020/43-20",
+   "kind": "loi",
+   "number": "43-20",
+   "date": "2021-06-03",
+   "title": "القانون المتعلق بالتبادل الإلكتروني للمعطيات القانونية",
+   "source": "https://adala.justice.gov.ma/resources/37",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/09/05/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.07.129%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2053.05%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AA%D8%A8%D8%A7%D8%AF%D9%84%20%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1.._-1725534390706.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 3
   },
   {
    "id": "lois/2020/49-17-relative-a-levaluation-environnementale",
