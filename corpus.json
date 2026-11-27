@@ -3034,6 +3034,18 @@
    "articles": 3
   },
   {
+   "id": "lois/2002/53-00",
+   "kind": "loi",
+   "number": "53-00",
+   "date": "2002-08-19",
+   "title": "القانون المتعلق بميثاق المقاولات الصغرى والمتوسطة",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/07/29/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D9%8A%D8%AB%D8%A7%D9%82%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B5%D8%BA%D8%B1%D9%89%20%D9%88%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9-1722243274543.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 61
+  },
+  {
    "id": "lois/2003/11-03-relative-a-la-protection-et-a-la-mise-en-valeur",
    "kind": "loi",
    "number": "11-03",
@@ -3110,6 +3122,18 @@
    "text_layer": "born-digital",
    "language": "ar",
    "articles": 85
+  },
+  {
+   "id": "lois/2006/44-03",
+   "kind": "loi",
+   "number": "44-03",
+   "date": "2006-02-27",
+   "title": "القانون المتعلق بالقواعد المحاسبية الواجب على التجار العمل بها",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/02/05/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B9%D8%AF%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D8%A8%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%20%D8%A8%D9%87%D8%A7-1707144556007.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 19
   },
   {
    "id": "lois/2006/54-03-modifiant-et-completant-le-dahir-du-6-hija-1341",
@@ -3227,6 +3251,18 @@
    "articles": 334
   },
   {
+   "id": "lois/2013/43-12",
+   "kind": "loi",
+   "number": "43-12",
+   "date": "2021-07-29",
+   "title": "ظهير شريف بتنفيذ القانون رقم 43.12 المتعلق بالهيئة المغربية لسوق الرساميل",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/04/17/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.13.21%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2043.12%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82-1776423146565.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 3
+  },
+  {
    "id": "lois/2014/066-13",
    "kind": "loi",
    "number": "066-13",
@@ -3297,6 +3333,18 @@
    "articles": 20
   },
   {
+   "id": "lois/2014/42-12",
+   "kind": "loi",
+   "number": "42-12",
+   "date": "2014-06-09",
+   "title": "ظهير شريف بتنفيذ القانون رقم 42.12 المتعلق بالسوق الآجلة للأدوات المالية",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/07/19/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2042.12%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%B3%D9%88%D9%82%20%D8%A7%D9%84%D8%A2%D8%AC%D9%84%D8%A9%20%D9%84%D9%84%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-1721400434410.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 109
+  },
+  {
    "id": "lois/2014/62-12-relative-a-lorganisation-de-la-profession-de",
    "kind": "loi",
    "number": "62-12",
@@ -3317,6 +3365,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor135038.pdf",
    "text_layer": "born-digital",
    "articles": 1
+  },
+  {
+   "id": "lois/2015/114-13",
+   "kind": "loi",
+   "number": "114-13",
+   "date": "2015-03-12",
+   "title": "ظهير شريف بتنفيذ القانون رقم 114.13 المتعلق بنظام المقاول الذاتي",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/07/09/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%20114.13%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%86%D8%B8%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%20%D8%A7%D9%84%D8%B0%D8%A7%D8%AA%D9%8A-1720535300284.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 6
   },
   {
    "id": "lois/2015/33-13-relative-aux-mines",
@@ -3631,6 +3691,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor242020.pdf",
    "text_layer": "born-digital",
    "articles": 105
+  },
+  {
+   "id": "lois/2024/19-94",
+   "kind": "loi",
+   "number": "19-94",
+   "date": "2024-06-24",
+   "title": "ظهير شريف بتنفيذ القانون رقم 19.94 المتعلق بمناطق التسريع الصناعي",
+   "source": "https://adala.justice.gov.ma/resources/31",
+   "file": "https://adala.justice.gov.ma/api/uploads/2025/12/04/%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%20%D8%B5%D9%8A%D8%BA%D8%A9%20%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-1764837278699.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 9
   },
   {
    "id": "lois/2024/45-24",
