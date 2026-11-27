@@ -11,11 +11,11 @@ The law of Morocco as a git history: one file per article, one commit per versio
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Morocco's national law, which global-law reads at `morocco/national/acts/`.
 
-**What is in it now:** two acts, one version each: the Constitution of 2011 (its preamble and 180 articles), as promulgated and not amended since, and the Code pénal of 1962 as consolidated to loi n° 33-18 of 2019 (608 articles). Each act's folder has a `README.md` listing its articles; [`data/versions.json`](data/versions.json) gives each version's day and source.
+**What is in it now:** 37 texts, one version each: the 2011 Constitution; 7 codes ([code-de-commerce](codes/code-de-commerce/), [code-de-commerce-maritime](codes/code-de-commerce-maritime/), [code-de-procedure-civile](codes/code-de-procedure-civile/), [code-des-droits-reels](codes/code-des-droits-reels/), [code-des-obligations-et-contrats](codes/code-des-obligations-et-contrats/), [code-du-travail](codes/code-du-travail/), [code-penal](codes/code-penal/)); 16 lois, 13 dahirs, 0 décrets and 0 arrêtés, filed by type and year ([STRUCTURE.md](STRUCTURE.md); full list in [`corpus.json`](corpus.json)). Decisions of the Cour constitutionnelle are in a separate repository.
 
-Each act is a folder with one file per article, `<act>/art-NNN.md` (`constitution/art-001.md` is Article premier of the Constitution, `code-penal/art-262-bis.md` Article 262 bis of the Code pénal); `constitution/preambule.md` is the preamble.
+Each act is a folder with one file per article, `<folder>/art-NNN.md` (`constitution/art-001.md` is Article premier of the Constitution, `codes/code-penal/art-262-bis.md` Article 262 bis of the Code pénal); `constitution/preambule.md` is the preamble.
 
-The text is in French: the Ministry of Justice's French version of the Constitution, and WIPO Lex's copy of the Code pénal. The authoritative text is the Arabic one in the Bulletin officiel; it and an English translation are not part of this record.
+The text is in French: the Ministry of Justice's French version of the Constitution, the Ministry of Justice's consolidated codes as republished by WIPO Lex, and Bulletin officiel texts (French edition) as copied by FAOLEX and WIPO Lex. The authoritative text is the Arabic one in the Bulletin officiel; it and an English translation are not part of this record.
 
 ## Questions as git commands
 
@@ -52,7 +52,9 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 Each commit is dated at noon, Africa/Casablanca, on the day the version took effect, and carries it in its `In-force:` trailer:
 
 - the Constitution: 30 July 2011, the day it appeared in the Bulletin officiel n° 5964 bis; it was adopted by referendum on 1 July 2011, and Dahir n° 1-11-91 promulgating it is dated 29 July 2011 (the `Enacted:` trailer);
-- the Code pénal: 11 March 2019, the date of dahir n° 1-19-44, which promulgated loi n° 33-18, the last amendment the consolidated text takes in.
+- the Code pénal: 11 March 2019, the date of dahir n° 1-19-44, which promulgated loi n° 33-18, the last amendment the consolidated text takes in;
+- the other consolidated codes: the "version consolidée du …" day printed by the Ministry of Justice (DOC and Code de commerce: 19 December 2019; Code de procédure civile: 6 June 2013); the Code du travail: 8 June 2004 (article 589: six months after publication in the Bulletin officiel);
+- every other text: its own entry-into-force rule applied to the general (Arabic) edition of the Bulletin officiel it cites, else the Bulletin officiel day in the FAOLEX record (Moroccan texts take effect on publication unless they say otherwise), else the WIPO Lex record's entry-into-force or publication day, else the date of the text; the `In-force-basis:` trailer says which. Before 1970 the commit is dated 1 January 1970 and the real day is in the subject and in `In-force:`.
 
 The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only in the oldest version available, is credited to the publisher as the repository names it, `Ministère de la Justice du Royaume du Maroc (Adala)`, although its text comes from WIPO Lex. The committer is Lexifina.
 
@@ -60,12 +62,13 @@ The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only 
 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, compares it file by file with the corpus it was built from, and checks that every commit's trailers parse, with no merge commits and no commit dated in the future.
 - The same corpus always gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256, the builders' blob hashes and the decisions made by hand. It also records that, for the published build, that check had not yet been run and no second build had been compared.
-- Both texts come from PDFs with a text layer and are reproduced unchanged apart from layout.
+- Every text comes from a PDF with a text layer and is reproduced unchanged apart from layout; Lexifina ran no OCR. 1 texts rest on a text layer the publisher laid over a scan (trailer `Text-source: publisher OCR`); noisy copies are left out.
 - [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
-- **Most of Moroccan law.** Only these two acts are here: no other laws, dahirs or decrees, and no case law.
+- **Much of Moroccan law.** The official hosts (sgg.gov.ma, adala.justice.gov.ma) do not accept a connection from our machine, so only texts of which FAOLEX or WIPO Lex publish a readable French copy are here (123 records left out: scans without a text layer, Arabic or English texts, duplicates, no reliable date). The Code de la famille (2004) and the Code de procédure pénale are missing: no readable French copy was found.
+- **The history of each text.** Each text has one version, as published (or consolidated); amending laws are not applied as separate versions.
 - **The Code pénal's history.** It is one consolidated text: not the 1962 text, the amending laws are not separate versions, and amendments made after loi n° 33-18 are not applied.
 - **Eight articles of the Code pénal.** Articles 19 to 23 are missing from the WIPO Lex PDF's text layer, and articles 289 to 291 are not printed in it (repealed), so they have no file.
 - **Headings and notes.** The Constitution's Titre headings and page numbers, the Code pénal's Livre, Titre, Chapitre and Section headings, and its footnotes naming each amending law are left out; the promulgating dahir is not a file.
@@ -77,10 +80,12 @@ The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only 
 | --- | --- | --- | --- |
 | [Adala](https://adala.justice.gov.ma/) (Ministère de la Justice) | Official portal, French version | the Constitution as promulgated, never amended | The Constitution, retrieved 28 October 2026 |
 | [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/19795) | Official text republished by WIPO (MA088) | one consolidated text | The Code pénal as amended to loi n° 33-18, retrieved 30 October 2026 |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/members/profile/MA) | Ministry of Justice consolidated texts and published texts, republished by WIPO (secondary copy) | one text per code | DOC, Code de commerce, Code de procédure civile, Code du travail and other texts, retrieved 27 November 2026 |
+| [FAOLEX](https://faolex.fao.org/) (FAO) | Bulletin officiel texts (French edition) copied by FAO (secondary copy) | the published text | Lois, dahirs, décrets and arrêtés; Bulletin officiel number and day from the record; retrieved 27 November 2026 |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). Moroccan loi n° 2-00, article 8(a), excludes official legislative texts from copyright protection; neither source states a licence. Lexifina's arrangement of the repository, its tables, commit messages and tools may be reused under CC BY 4.0.
+See [`LICENSE`](LICENSE). Moroccan loi n° 2-00, article 8(a), excludes official legislative texts from copyright protection; no source states a licence for these texts. Lexifina's arrangement of the repository, its tables, commit messages and tools are dedicated to the public domain (CC0 1.0).
 
 No AI model wrote, translated or corrected legal text, and none runs at build time; the scripts were written by Claude Code (see [`REPRODUCE.md`](REPRODUCE.md)).
 

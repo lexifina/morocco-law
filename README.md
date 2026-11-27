@@ -11,11 +11,11 @@ Le droit du Maroc sous la forme d’un historique git : un fichier par article,
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de tous les pays : il s’agit ici du droit national du Maroc, que global-law lit sous `morocco/national/acts/`.
 
-**Contenu actuel :** deux textes, en une version chacun : la Constitution de 2011 (son préambule et 180 articles), telle que promulguée et non modifiée depuis, et le Code pénal de 1962 dans sa version consolidée jusqu’à la loi n° 33-18 de 2019 (608 articles). Le dossier de chaque texte contient un `README.md` listant ses articles ; [`data/versions.json`](data/versions.json) donne la date et la source de chaque version.
+**Contenu actuel :** 37 textes, chacun dans une seule version : la Constitution de 2011 ; 7 codes ([de commerce](codes/code-de-commerce/), [de commerce maritime](codes/code-de-commerce-maritime/), [de procedure civile](codes/code-de-procedure-civile/), [des droits reels](codes/code-des-droits-reels/), [des obligations et contrats](codes/code-des-obligations-et-contrats/), [du travail](codes/code-du-travail/), [penal](codes/code-penal/)) ; 16 lois, 13 dahirs, 0 décrets et 0 arrêtés, rangés par nature et par année ([STRUCTURE.md](STRUCTURE.md) ; liste complète dans [`corpus.json`](corpus.json)). Les décisions de la Cour constitutionnelle sont dans un dépôt séparé.
 
-Chaque texte est un dossier avec un fichier par article, `<act>/art-NNN.md` (`constitution/art-001.md` est l’article premier de la Constitution, `code-penal/art-262-bis.md` l’article 262 bis du Code pénal) ; `constitution/preambule.md` est le préambule.
+Chaque texte est un dossier avec un fichier par article, `<dossier>/art-NNN.md` (`constitution/art-001.md` est l’article premier de la Constitution, `codes/code-penal/art-262-bis.md` l’article 262 bis du Code pénal) ; `constitution/preambule.md` est le préambule.
 
-Le texte est en français : la version française de la Constitution publiée par le Ministère de la Justice, et la copie du Code pénal de WIPO Lex. Le texte qui fait foi est le texte arabe publié au Bulletin officiel ; ni celui-ci ni une traduction anglaise ne font partie de ce corpus.
+Le texte est en français : la version française de la Constitution publiée par le Ministère de la Justice, les codes consolidés du Ministère de la Justice republiés par WIPO Lex, et les textes du Bulletin officiel (édition française) copiés par FAOLEX et WIPO Lex. Le texte qui fait foi est le texte arabe publié au Bulletin officiel ; ni celui-ci ni une traduction anglaise ne font partie de ce corpus.
 
 ## Questions sous forme de commandes git
 
@@ -52,7 +52,9 @@ Ouvert dans Claude Code, Cursor, VS Code ou Codex, le clone démarre aussi un se
 Chaque commit est daté à midi, heure Africa/Casablanca, du jour où la version est entrée en vigueur, et porte cette date dans son trailer `In-force:` :
 
 - la Constitution : le 30 juillet 2011, date de sa parution au Bulletin officiel n° 5964 bis ; elle a été adoptée par référendum le 1er juillet 2011, et le Dahir n° 1-11-91 portant sa promulgation est daté du 29 juillet 2011 (le trailer `Enacted:`) ;
-- le Code pénal : le 11 mars 2019, date du dahir n° 1-19-44 portant promulgation de la loi n° 33-18, dernière modification intégrée dans le texte consolidé.
+- le Code pénal : le 11 mars 2019, date du dahir n° 1-19-44 portant promulgation de la loi n° 33-18, dernière modification intégrée dans le texte consolidé ;
+- les autres codes consolidés : la date « version consolidée du … » imprimée par le Ministère de la Justice (DOC et Code de commerce : 19 décembre 2019 ; Code de procédure civile : 6 juin 2013) ; le Code du travail : le 8 juin 2004 (article 589 : six mois après sa publication au Bulletin officiel) ;
+- les autres textes : la règle d’entrée en vigueur du texte appliquée à la date de l’édition générale du Bulletin officiel qu’il cite, sinon la date du Bulletin officiel donnée par la fiche FAOLEX (les textes marocains entrent en vigueur à leur publication, sauf disposition contraire), sinon la date d’entrée en vigueur ou de publication de la fiche WIPO Lex, sinon la date du texte ; le trailer `In-force-basis:` dit laquelle. Avant 1970, le commit est daté du 1er janvier 1970 et le jour réel figure dans le sujet et dans `In-force:`.
 
 La Constitution est attribuée au `Dahir n° 1-11-91`. Le Code pénal, présent ici uniquement dans la plus ancienne version disponible, est attribué à l’éditeur sous le nom que lui donne le dépôt, `Ministère de la Justice du Royaume du Maroc (Adala)`, bien que son texte provienne de WIPO Lex. Le committer est Lexifina.
 
@@ -60,12 +62,13 @@ La Constitution est attribuée au `Dahir n° 1-11-91`. Le Code pénal, présent 
 
 - `tools/check_repo.py` relit chaque version dans git le jour de son entrée en vigueur et la veille, la compare fichier par fichier au corpus à partir duquel elle a été construite, et vérifie que les trailers de chaque commit sont analysables, sans commit de fusion ni commit daté dans le futur.
 - Un même corpus donne toujours les mêmes empreintes de commit ; [`REPRODUCE.md`](REPRODUCE.md) donne l’empreinte sha256 du corpus, les empreintes de blob des scripts de construction et les choix faits manuellement. Il consigne également que, pour la construction publiée, ce contrôle n’avait pas encore été exécuté et qu’aucune seconde construction n’avait été comparée.
-- Les deux textes proviennent de PDF dotés d’une couche texte et sont reproduits sans modification, hormis la mise en page.
+- Tous les textes proviennent de PDF dotés d’une couche texte et sont reproduits sans modification, hormis la mise en page ; aucune OCR n’a été faite par Lexifina. 1 textes reposent sur la couche texte que l’éditeur a posée sur un document numérisé (trailer `Text-source: publisher OCR`) ; les copies trop bruitées sont écartées.
 - [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
-- **L’essentiel du droit marocain.** Seuls ces deux textes figurent ici : aucune autre loi, aucun autre dahir ou décret, et aucune jurisprudence.
+- **Une grande partie du droit marocain.** Les sites officiels (sgg.gov.ma, adala.justice.gov.ma) n’acceptent pas de connexion depuis notre machine : seuls figurent les textes dont FAOLEX ou WIPO Lex publient une copie française lisible (123 fiches écartées : numérisations sans couche texte, textes en arabe ou en anglais, doublons, dates non fiables). Le Code de la famille (2004) et le Code de procédure pénale manquent : aucune copie française lisible n’a été trouvée.
+- **L’historique des textes.** Chaque texte a une seule version : le texte publié (ou consolidé) ; les lois modificatives ne sont pas appliquées comme versions distinctes.
 - **L’historique du Code pénal.** Il s’agit d’un texte consolidé unique : le texte de 1962 n’y figure pas, les lois modificatives ne constituent pas des versions distinctes, et les modifications postérieures à la loi n° 33-18 ne sont pas appliquées.
 - **Huit articles du Code pénal.** Les articles 19 à 23 sont absents de la couche texte du PDF de WIPO Lex, et les articles 289 à 291 n’y sont pas imprimés (abrogés) ; ils n’ont donc pas de fichier.
 - **Les intitulés et les notes.** Les intitulés des Titres et les numéros de page de la Constitution, les intitulés des Livres, Titres, Chapitres et Sections du Code pénal ainsi que ses notes de bas de page désignant chaque loi modificative sont omis ; le dahir de promulgation ne fait pas l’objet d’un fichier.
@@ -77,10 +80,12 @@ La Constitution est attribuée au `Dahir n° 1-11-91`. Le Code pénal, présent 
 | --- | --- | --- | --- |
 | [Adala](https://adala.justice.gov.ma/) (Ministère de la Justice) | Portail officiel, version française | la Constitution telle que promulguée, jamais modifiée | La Constitution, consultée le 28 octobre 2026 |
 | [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/details/19795) | Texte officiel republié par l’OMPI (MA088) | un texte consolidé | Le Code pénal tel que modifié jusqu’à la loi n° 33-18, consulté le 30 octobre 2026 |
+| [WIPO Lex](https://www.wipo.int/wipolex/en/legislation/members/profile/MA) | Textes consolidés du Ministère de la Justice et textes publiés, republiés par l’OMPI (copie secondaire) | un texte par code | DOC, Code de commerce, Code de procédure civile, Code du travail et autres textes, consultés le 27 novembre 2026 |
+| [FAOLEX](https://faolex.fao.org/) (FAO) | Textes du Bulletin officiel (édition française) copiés par la FAO (copie secondaire) | le texte publié | Lois, dahirs, décrets et arrêtés ; numéro et date du Bulletin officiel d’après la fiche ; consultés le 27 novembre 2026 |
 
 ## Licence
 
-Voir [`LICENSE`](LICENSE). La loi marocaine n° 2-00, en son article 8(a), exclut les textes législatifs officiels de la protection du droit d’auteur ; aucune des deux sources n’indique de licence. L’organisation du dépôt par Lexifina, ses tableaux, ses messages de commit et ses outils peuvent être réutilisés sous licence CC BY 4.0.
+Voir [`LICENSE`](LICENSE). La loi marocaine n° 2-00, en son article 8(a), exclut les textes législatifs officiels de la protection du droit d’auteur ; aucune des sources n’indique de licence pour ces textes. L’organisation du dépôt par Lexifina, ses tableaux, ses messages de commit et ses outils sont versés au domaine public (CC0 1.0).
 
 Aucun modèle d’IA n’a rédigé, traduit ni corrigé de texte juridique, et aucun ne s’exécute lors de la construction ; les scripts ont été écrits par Claude Code (voir [`REPRODUCE.md`](REPRODUCE.md)).
 

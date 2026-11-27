@@ -71,3 +71,13 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - none
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+
+## Runner build, 27 November 2026
+
+Texts added after the first build are committed directly by `scripts/morocco-law/runner/ma_build.py` (one commit per text on top of `main`, fast-forward pushes), not by `tools/build.py`:
+
+- `ma_build.py layout`: one pure-rename commit, `code-penal/` to `codes/code-penal/`.
+- `ma_build.py codes`: the Ministry of Justice consolidated codes from WIPO Lex (records 19845, 19790, 19789) and the Code du travail (record 7371); footnotes, footnote calls and headings are dropped by type size and weight.
+- `ma_build.py acts`: every FAOLEX record for Morocco listed in the FAOLEX sitemaps (`mar_faolex.txt`), then the WIPO Lex Morocco profile (`wipo_ma.json`); French text layers only, no OCR; a publisher's text layer over a scan only when it reads as clean French.
+- Official hosts sgg.gov.ma, adala.justice.gov.ma, justice.gov.ma and coursupreme.ma refused TCP connections from this machine on 2026-10-30, 2026-11-03 and 2026-11-27; chambredesrepresentants.ma answers 403 (Cloudflare). Neither was worked round.
+- `corpus.json` lists every text (folder, kind, number, day, title, source, file, text layer).
