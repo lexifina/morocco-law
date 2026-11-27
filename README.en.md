@@ -11,7 +11,7 @@ The law of Morocco as a git history: one file per article, one commit per versio
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Morocco's national law, which global-law reads at `morocco/national/acts/`.
 
-**What is in it now:** 37 texts, one version each: the 2011 Constitution; 7 codes ([code-de-commerce](codes/code-de-commerce/), [code-de-commerce-maritime](codes/code-de-commerce-maritime/), [code-de-procedure-civile](codes/code-de-procedure-civile/), [code-des-droits-reels](codes/code-des-droits-reels/), [code-des-obligations-et-contrats](codes/code-des-obligations-et-contrats/), [code-du-travail](codes/code-du-travail/), [code-penal](codes/code-penal/)); 16 lois, 13 dahirs, 0 décrets and 0 arrêtés, filed by type and year ([STRUCTURE.md](STRUCTURE.md); full list in [`corpus.json`](corpus.json)). Decisions of the Cour constitutionnelle are in a separate repository.
+**What is in it now:** 300 texts, one version each: the 2011 Constitution; 8 codes ([code-de-commerce](codes/code-de-commerce/), [code-de-commerce-maritime](codes/code-de-commerce-maritime/), [code-de-la-presse-et-de-ledition-2003](codes/code-de-la-presse-et-de-ledition-2003/), [code-de-procedure-civile](codes/code-de-procedure-civile/), [code-des-droits-reels](codes/code-des-droits-reels/), [code-des-obligations-et-contrats](codes/code-des-obligations-et-contrats/), [code-du-travail](codes/code-du-travail/), [code-penal](codes/code-penal/)); 50 lois, 15 dahirs, 91 décrets and 135 arrêtés, filed by type and year ([STRUCTURE.md](STRUCTURE.md); full list in [`corpus.json`](corpus.json)). Decisions of the Cour constitutionnelle are in a separate repository.
 
 Each act is a folder with one file per article, `<folder>/art-NNN.md` (`constitution/art-001.md` is Article premier of the Constitution, `codes/code-penal/art-262-bis.md` Article 262 bis of the Code pénal); `constitution/preambule.md` is the preamble.
 
@@ -62,12 +62,12 @@ The Constitution is credited to `Dahir n° 1-11-91`. The Code pénal, here only 
 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, compares it file by file with the corpus it was built from, and checks that every commit's trailers parse, with no merge commits and no commit dated in the future.
 - The same corpus always gives the same commit hashes; [`REPRODUCE.md`](REPRODUCE.md) gives the corpus's sha256, the builders' blob hashes and the decisions made by hand. It also records that, for the published build, that check had not yet been run and no second build had been compared.
-- Every text comes from a PDF with a text layer and is reproduced unchanged apart from layout; Lexifina ran no OCR. 1 texts rest on a text layer the publisher laid over a scan (trailer `Text-source: publisher OCR`); noisy copies are left out.
+- Every text comes from a PDF with a text layer and is reproduced unchanged apart from layout; Lexifina ran no OCR. 5 texts rest on a text layer the publisher laid over a scan (trailer `Text-source: publisher OCR`); noisy copies are left out.
 - [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
-- **Much of Moroccan law.** The official hosts (sgg.gov.ma, adala.justice.gov.ma) do not accept a connection from our machine, so only texts of which FAOLEX or WIPO Lex publish a readable French copy are here (123 records left out: scans without a text layer, Arabic or English texts, duplicates, no reliable date). The Code de la famille (2004) and the Code de procédure pénale are missing: no readable French copy was found.
+- **Much of Moroccan law.** The official hosts (sgg.gov.ma, adala.justice.gov.ma) do not accept a connection from our machine, so only texts of which FAOLEX or WIPO Lex publish a readable French copy are here (1035 records left out: scans without a text layer, Arabic or English texts, duplicates, no reliable date). The Code de la famille (2004) and the Code de procédure pénale are missing: no readable French copy was found.
 - **The history of each text.** Each text has one version, as published (or consolidated); amending laws are not applied as separate versions.
 - **The Code pénal's history.** It is one consolidated text: not the 1962 text, the amending laws are not separate versions, and amendments made after loi n° 33-18 are not applied.
 - **Eight articles of the Code pénal.** Articles 19 to 23 are missing from the WIPO Lex PDF's text layer, and articles 289 to 291 are not printed in it (repealed), so they have no file.
