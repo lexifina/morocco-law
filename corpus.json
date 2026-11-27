@@ -1,0 +1,65 @@
+{
+ "corpus": "ma/national/acts",
+ "jurisdiction": "Morocco",
+ "generated_from": "runner state",
+ "acts": [
+  {
+   "id": "codes/code-de-commerce",
+   "kind": "code",
+   "date": "2019-12-19",
+   "title": "Loi n° 15-95 formant Code de commerce, promulguée par le dahir n° 1-96-83 du 15 rabii I 1417 (1er août 1996), version consolidée en date du 19 décembre 2019",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/19790",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma086fr.pdf",
+   "text_layer": "born-digital",
+   "articles": 803,
+   "gaps": 25
+  },
+  {
+   "id": "codes/code-de-procedure-civile",
+   "kind": "code",
+   "date": "2013-06-06",
+   "title": "Dahir portant loi n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974) approuvant le texte du Code de procédure civile, version consolidée en date du 6 juin 2013",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/19789",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma084fr.pdf",
+   "text_layer": "born-digital",
+   "articles": 562,
+   "gaps": 38
+  },
+  {
+   "id": "codes/code-des-obligations-et-contrats",
+   "kind": "code",
+   "date": "2019-12-19",
+   "title": "Dahir du 9 ramadan 1331 (12 août 1913) formant Code des obligations et des contrats, version consolidée du 19 décembre 2019",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/19845",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma083fr.pdf",
+   "text_layer": "born-digital",
+   "articles": 1307,
+   "gaps": 13
+  },
+  {
+   "id": "codes/code-du-travail",
+   "kind": "code",
+   "date": "2004-06-08",
+   "title": "Loi n° 65-99 relative au Code du travail, promulguée par le dahir n° 1-03-194 du 14 rejeb 1424 (11 septembre 2003)",
+   "source": "https://www.wipo.int/wipolex/en/legislation/details/7371",
+   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma050fr.pdf",
+   "text_layer": "born-digital",
+   "articles": 588,
+   "gaps": 1
+  },
+  {
+   "id": "codes/code-penal",
+   "kind": "code",
+   "date": "2019-03-11",
+   "title": "Code pénal (dahir n° 1-59-413 du 28 joumada II 1382 (26 novembre 1962)), consolidé jusqu'à la loi n° 33-18",
+   "source": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma088fr.pdf"
+  },
+  {
+   "id": "constitution",
+   "kind": "constitution",
+   "date": "2011-07-30",
+   "title": "Constitution du Royaume du Maroc (2011)",
+   "source": "https://adala.justice.gov.ma/"
+  }
+ ]
+}
