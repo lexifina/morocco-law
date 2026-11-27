@@ -4,6 +4,94 @@
  "generated_from": "runner state",
  "acts": [
   {
+   "id": "arretes/1920/sn-0504-fixant-le-tarif-des-droits-a-percevoir-en-matiere",
+   "kind": "arrete",
+   "number": "",
+   "date": "1920-05-04",
+   "title": "Arrêté viziriel du 4 mai 1920 (14 chaabane 1338) fixant le tarif des droits à percevoir en matière d’hypothèque maritime.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235875/arrete-viziriel-du-4-mai-1920-14-chaabane-1338-fixant-le-tar-mar-1920",
+   "file": "https://faolex.fao.org/docs/pdf/mor235875.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "arretes/1924/sn-0621-relatif-a-la-protection-de-l-homme-et-des-animaux",
+   "kind": "arrete",
+   "number": "",
+   "date": "1924-06-21",
+   "title": "Arrêté viziriel du 21 juin 1924 relatif à la protection de l'homme et des animaux contre la fièvre de Malte.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC018400/arrete-viziriel-du-21-juin-1924-relatif-a-la-protection-de-l-mar-1924",
+   "file": "https://faolex.fao.org/docs/pdf/mor18400.pdf",
+   "text_layer": "born-digital",
+   "articles": 0
+  },
+  {
+   "id": "arretes/1925/sn-0311-reglementant-le-commerce-de-la-cire-d-abeilles",
+   "kind": "arrete",
+   "number": "",
+   "date": "1925-03-31",
+   "title": "Arrêté Viziriel du 11 mars 1925 réglementant le commerce de la cire d'abeilles.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC065158/arrete-viziriel-du-11-mars-1925-reglementant-le-commerce-de-mar-1925",
+   "file": "https://faolex.fao.org/docs/pdf/mor65158.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
+   "id": "arretes/1931/sn-0601-reglementant-l-exercice-de-la-peche-dans-la",
+   "kind": "arrete",
+   "number": "",
+   "date": "1931-06-01",
+   "title": "Arrêté viziriel du 14 Moharrem 1350 (1er juin 1931) réglementant l'exercice de la pêche dans la lagune de Moulay Bouselham (merja Eszerga).",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235899/arrete-viziriel-du-14-moharrem-1350-1er-juin-1931-reglementa-mar-1931",
+   "file": "https://faolex.fao.org/docs/pdf/mor235899.pdf",
+   "text_layer": "born-digital",
+   "articles": 11
+  },
+  {
+   "id": "arretes/1933/sn-1013-22-joumada-ii-1352-portant-classement-des",
+   "kind": "arrete",
+   "number": "",
+   "date": "1933-10-13",
+   "title": "Arrêté viziriel du 13 octobre 1933 (22 joumada II 1352) portant classement des établissements insalubres, incommodes ou dangereux.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235902/arrete-viziriel-du-13-octobre-1933-22-joumada-ii-1352-portan-mar-1933",
+   "file": "https://faolex.fao.org/docs/pdf/mor235902.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "arretes/1957/sn-1231-de-leconomie-national-du-31-decembre-1957-relatif",
+   "kind": "arrete",
+   "number": "",
+   "date": "1957-12-31",
+   "title": "Arrêté du ministre de l’économie national du 31 décembre 1957 relatif à la contribution des bâtiments de l’institut marocain des pêches maritimes à la police des pêches.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235150/arrete-du-ministre-de-l-economie-national-du-31-decembre-195-mar-1957",
+   "file": "https://faolex.fao.org/docs/pdf/mor235150.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1963/518-63-fixant-le-tarif-des-taxes-de-visite-des-navires",
+   "kind": "arrete",
+   "number": "518-63",
+   "date": "1963-09-16",
+   "title": "Arrêté conjoint du ministre des affaires étrangères et du ministre du commerce, de l’industrie, des mines et de la marine marchande n° 518-63 du 16 septembre 1963 fixant le tarif des taxes de visite des navires de commerce, de pêche et de plaisance.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235169/arrete-conjoint-du-ministre-des-affaires-etrangeres-et-du-mi-mar-1963",
+   "file": "https://faolex.fao.org/docs/pdf/mor235169.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "arretes/1988/1154-88-fixant-la-taille-marchande-minimale-des-especes",
+   "kind": "arrete",
+   "number": "1154-88",
+   "date": "1988-10-03",
+   "title": "Arrêté du Ministre des Pêches Maritimes et de la Marine Marchande n° 1154-88 du 20 safar 1409 (3 octobre 1988) fixant la taille marchande minimale des espèces pêchées dans les eaux maritimes marocaines.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235170/arrete-du-ministre-des-peches-maritimes-et-de-la-marine-marc-mar-1936",
+   "file": "https://faolex.fao.org/docs/pdf/mor235170.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
    "id": "codes/code-de-commerce",
    "kind": "code",
    "date": "2019-12-19",
@@ -227,6 +315,72 @@
    "articles": 22
   },
   {
+   "id": "decrets/1958/2-58-783-relatif-au-comite-central-et-aux-comites-locaux",
+   "kind": "decret",
+   "number": "2-58-783",
+   "date": "1958-10-22",
+   "title": "Décret n° 2-58-783 du 8 rebia II 1378 (22 octobre 1958) relatif au comité central et aux comités locaux des pêches maritimes.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235907/decret-n-2-58-783-du-8-rebia-ii-1378-22-octobre-1958-relatif-mar-1958",
+   "file": "https://faolex.fao.org/docs/pdf/mor235907.pdf",
+   "text_layer": "born-digital",
+   "articles": 10
+  },
+  {
+   "id": "decrets/1961/2-60-389-fixant-les-conditions-requises-pour-commander-et",
+   "kind": "decret",
+   "number": "2-60-389",
+   "date": "1961-02-25",
+   "title": "Décret n° 2-60-389 du 9 ramadan 1380 (25 février 1961) fixant les conditions requises pour commander et exercer les fonctions d’officier de pont et d’officier mécanicien à bord des navires de commerce et de pêche.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235929/decret-n-2-60-389-du-9-ramadan-1380-25-fevrier-1961-fixant-l-mar-1961",
+   "file": "https://faolex.fao.org/docs/pdf/mor235929.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
+   "id": "decrets/1963/2-63-397-fixant-la-composition-et-le-fonctionnement-des",
+   "kind": "decret",
+   "number": "2-63-397",
+   "date": "1963-10-25",
+   "title": "Décret n° 2-63-397 du 6 joumada II 1383 (25 octobre 1963) fixant la composition et le fonctionnement des commissions de visite de sécurité nautique.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235944/decret-n-2-63-397-du-6-joumada-ii-1383-25-octobre-1963-fixan-mar-1963",
+   "file": "https://faolex.fao.org/docs/pdf/mor235944.pdf",
+   "text_layer": "born-digital",
+   "articles": 41
+  },
+  {
+   "id": "decrets/1963/2-63-398-determinant-le-regime-applicable-en-matiere-de",
+   "kind": "decret",
+   "number": "2-63-398",
+   "date": "1963-11-07",
+   "title": "Décret n° 2-63-398 du 19 joumada II 1383 (7 novembre 1963) déterminant le régime applicable en matière de sécurit nautique aux navires de jauge brute inférieure à 500 tonneaux.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC235945/decret-n-2-63-398-du-19-joumada-ii-1383-7-novembre-1963-dete-mar-1963",
+   "file": "https://faolex.fao.org/docs/pdf/mor235945.pdf",
+   "text_layer": "born-digital",
+   "articles": 8
+  },
+  {
+   "id": "decrets/1964/2-64-025-fixant-le-taux-de-la-cotisation-due-a-la-caisse",
+   "kind": "decret",
+   "number": "2-64-025",
+   "date": "1964-01-30",
+   "title": "Décret n° 2-64-025 du 15 ramadan 1383 (30 janvier 1964) fixant le taux de la cotisation due à la Caisse nationale de sécurité sociale par les marins-pêcheurs à la part.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC214463/decret-n-2-64-025-du-15-ramadan-1383-30-janvier-1964-fixant-mar-1964",
+   "file": "https://faolex.fao.org/docs/pdf/mor214463.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "decrets/1968/129-68-portant-institution-d-une-commission",
+   "kind": "decret",
+   "number": "129-68",
+   "date": "1968-01-29",
+   "title": "Décret royal n° 129-68 du 28 chaoual 1387 (29 janvier 1968) portant institution d'une commission interministérielle permanente pour le contrôle alimentaire et la répression des fraudes dans la vente des marchandises.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC176807/decret-royal-n-129-68-du-28-chaoual-1387-29-janvier-1968-por-mar-1968",
+   "file": "https://faolex.fao.org/docs/pdf/Mor176807.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
    "id": "lois/1976/1-76-350-relative-a-l-organisation-de-la-participation-des",
    "kind": "loi",
    "number": "1-76-350",
@@ -392,6 +546,28 @@
    "articles": 21
   },
   {
+   "id": "lois/2012/69-16-completant-larticle-4-de-la-loi-n-39-08-relative",
+   "kind": "loi",
+   "number": "69-16",
+   "date": "2012-05-24",
+   "title": "Loi n° 69-16 complétant l’article 4 de la loi n° 39-08 relative au code des droits réels.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC226708/loi-n-69-16-completant-l-article-4-de-la-loi-n-39-08-relativ-mar-2023",
+   "file": "https://faolex.fao.org/docs/pdf/mor226708.pdf",
+   "text_layer": "born-digital",
+   "articles": 334
+  },
+  {
+   "id": "lois/2014/112-12-relative-aux-cooperatives",
+   "kind": "loi",
+   "number": "112-12",
+   "date": "2014-11-21",
+   "title": "Dahir n° 1-14-189 du 27 moharrem 1436 (21 novembre 2014) portant promulgation de la loi n° 112-12 relative aux coopératives.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225203/dahir-n-1-14-189-du-27-moharrem-1436-21-novembre-2014-portan-mar-2014",
+   "file": "https://faolex.fao.org/docs/pdf/mor225203.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 108
+  },
+  {
    "id": "lois/2014/62-12-relative-a-lorganisation-de-la-profession-de",
    "kind": "loi",
    "number": "62-12",
@@ -401,6 +577,248 @@
    "file": "https://faolex.fao.org/docs/pdf/mor135023.pdf",
    "text_layer": "born-digital",
    "articles": 12
+  },
+  {
+   "id": "lois/2014/98-13-portant-approbation-des-statuts-de-lunion-arabe",
+   "kind": "loi",
+   "number": "98-13",
+   "date": "2014-05-12",
+   "title": "Dahir  n° 1-14-91 du 12 rejeb 1435 (12 mai 2014) portant promulgation de la loi n° 98-13 portant approbation des Statuts de l’Union arabe des réserves naturelles, adoptés par le Conseil de la Ligue des Etats arabes au niveau ministériel au Caire le 10 mars 2012.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC135038/dahir-n-1-14-91-du-12-rejeb-1435-12-mai-2014-portant-promulg-mar-2014",
+   "file": "https://faolex.fao.org/docs/pdf/mor135038.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "lois/2015/33-13-relative-aux-mines",
+   "kind": "loi",
+   "number": "33-13",
+   "date": "2015-07-01",
+   "title": "Dahir n° 1-15-76 du 14 ramadan 1436 (1er juillet 2015) portant promulgation de la loi n° 33-13 relative aux mines.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC196094/dahir-n-1-15-76-du-14-ramadan-1436-1er-juillet-2015-portant-mar-2015",
+   "file": "https://faolex.fao.org/docs/pdf/mor196094.pdf",
+   "text_layer": "born-digital",
+   "articles": 122
+  },
+  {
+   "id": "lois/2018/31-13-relative-au-droit-d-acces-a-l-information",
+   "kind": "loi",
+   "number": "31-13",
+   "date": "2018-02-22",
+   "title": "Dahir N° 1-18-15 du 5 joumada II 1439 (22 février 2018) portant promulgation de la loi N° 31-13 relative au droit d'accès à l'information.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC227131/dahir-n-1-18-15-du-5-joumada-ii-1439-22-fevrier-2018-portant-mar-2018",
+   "file": "https://faolex.fao.org/docs/pdf/mor227131.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 30
+  },
+  {
+   "id": "lois/2019/62-17-relative-a-la-tutelle-administrative-sur-les",
+   "kind": "loi",
+   "number": "62-17",
+   "date": "2019-08-09",
+   "title": "Dahir n° 1-19-115 du 7 hija 1440 (9 août 2019) portant  promulgation de la loi n° 62-17 relative à la tutelle  administrative sur les collectivités ethniques et la gestion  de leurs biens.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC227632/dahir-n-1-19-115-du-7-hija-1440-9-aout-2019-portant-promulga-mar-2019",
+   "file": "https://faolex.fao.org/docs/pdf/mor227632.pdf",
+   "text_layer": "born-digital",
+   "articles": 37
+  },
+  {
+   "id": "lois/2019/63-17-relative-a-la-delimitation-administrative-des",
+   "kind": "loi",
+   "number": "63-17",
+   "date": "2019-08-09",
+   "title": "Dahir n° 1-19-116 du 7 hija 1440 (9 août 2019) portant promulgation de la loi n° 63-17 relative à la délimitation  administrative des terres des collectivités ethniques.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC227631/dahir-n-1-19-116-du-7-hija-1440-9-aout-2019-portant-promulga-mar-2019",
+   "file": "https://faolex.fao.org/docs/pdf/mor227631.pdf",
+   "text_layer": "born-digital",
+   "articles": 15
+  },
+  {
+   "id": "lois/2019/64-17-modifiant-et-completant-le-dahir-n-1-69-30-du-10",
+   "kind": "loi",
+   "number": "64-17",
+   "date": "2019-08-26",
+   "title": "Dahir n° 1-19-117 du 7 hija 1440 (9 août 2019) portant promulgation de la loi n° 64-17 modifiant et complétant le dahir n° 1-69-30 du 10 joumada I 1389 (25 juillet 1969) relatif aux terres collectives situées dans les périmètres d’irrigation.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225913/dahir-n-1-19-117-du-7-hija-1440-9-aout-2019-portant-promulga-mar-2019",
+   "file": "https://faolex.fao.org/docs/pdf/mor225913.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
+   "id": "lois/2020/49-17-relative-a-levaluation-environnementale",
+   "kind": "loi",
+   "number": "49-17",
+   "date": "2020-08-08",
+   "title": "Loi n° 49-17  relative à l’évaluation environnementale.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC224934/loi-n-49-17-relative-a-l-evaluation-environnementale-mar-2022",
+   "file": "https://faolex.fao.org/docs/pdf/mor224934.pdf",
+   "text_layer": "born-digital",
+   "articles": 33
+  },
+  {
+   "id": "lois/2020/72-18-relative-au-dispositif-de-ciblage-des",
+   "kind": "loi",
+   "number": "72-18",
+   "date": "2020-08-13",
+   "title": "Loi n° 72-18 relative au dispositif de ciblage des bénéficiaires des programmes d’appui social et portant création de l’Agence nationale des registres.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC204689/loi-n-72-18-relative-au-dispositif-de-ciblage-des-beneficiai-mar-2020",
+   "file": "https://faolex.fao.org/docs/pdf/mor204689.pdf",
+   "text_layer": "born-digital",
+   "articles": 45
+  },
+  {
+   "id": "lois/2021/09-21-relative-a-la-protection-sociale",
+   "kind": "loi",
+   "number": "09-21",
+   "date": "2021-04-05",
+   "title": "Dahir n° 1-21-30 du 9 chaabane 1442 (23 mars 2021) portant promulgation de la loi-cadre n° 09-21 relative à  la protection sociale.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225131/dahir-n-1-21-30-du-9-chaabane-1442-23-mars-2021-portant-prom-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor225131.pdf",
+   "text_layer": "born-digital",
+   "articles": 19
+  },
+  {
+   "id": "lois/2021/34-18-relative-aux-produits-phytopharmaceutiques",
+   "kind": "loi",
+   "number": "34-18",
+   "date": "2021-07-29",
+   "title": "Dahir n° 1-21-67 du 3 hija 1442 (14 juillet 2021) portant promulgation de la loi n° 34-18 relative aux produits phytopharmaceutiques.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225065/dahir-n-1-21-67-du-3-hija-1442-14-juillet-2021-portant-promu-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor225065.pdf",
+   "text_layer": "born-digital",
+   "articles": 85
+  },
+  {
+   "id": "lois/2021/37-21-edictant-des-mesures-particulieres-relatives-a-la",
+   "kind": "loi",
+   "number": "37-21",
+   "date": "2021-07-29",
+   "title": "Dahir n° 1-21-72 du 3 hija 1442 (14 juillet 2021) portant promulgation de la loi n° 37-21 édictant des mesures particulières relatives à la commercialisation directe des fruits et légumes produits dans le cadre de l’agrégation agricole.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC208311/dahir-n-1-21-72-du-3-hija-1442-14-juillet-2021-portant-promu-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor208311.pdf",
+   "text_layer": "born-digital",
+   "articles": 6
+  },
+  {
+   "id": "lois/2021/50-20-relative-a-la-microfinance",
+   "kind": "loi",
+   "number": "50-20",
+   "date": "2021-07-22",
+   "title": "Dahir n° 1-21-76 du 3 hija 1442 (14 juillet 2021) portant promulgation de la loi n° 50-20 relative à la microfinance.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC206354/dahir-n-1-21-76-du-3-hija-1442-14-juillet-2021-portant-promu-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor206354.pdf",
+   "text_layer": "born-digital",
+   "articles": 14
+  },
+  {
+   "id": "lois/2021/52-20-portant-creation-de-lagence-nationale-des-eaux-et",
+   "kind": "loi",
+   "number": "52-20",
+   "date": "2021-08-19",
+   "title": "Dahir n° 1-21-71 du 3 hija 1442 (14 juillet 2021) portant promulgation de la loi n° 52-20 portant création de l’Agence nationale des eaux et forêts.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC206328/dahir-n-1-21-71-du-3-hija-1442-14-juillet-2021-portant-promu-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor206328.pdf",
+   "text_layer": "born-digital",
+   "articles": 20
+  },
+  {
+   "id": "lois/2021/53-18-relative-aux-matieres-fertilisantes-et-aux",
+   "kind": "loi",
+   "number": "53-18",
+   "date": "2021-07-29",
+   "title": "Dahir n° 1-21-68 du 3 hija 1442 (14 juillet 2021) portant promulgation de la loi n° 53-18 relative aux matières  fertilisantes et aux supports de culture.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225045/dahir-n-1-21-68-du-3-hija-1442-14-juillet-2021-portant-promu-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor225045.pdf",
+   "text_layer": "born-digital",
+   "articles": 66
+  },
+  {
+   "id": "lois/2021/69-18-relative-a-la-pollution-par-les-navires",
+   "kind": "loi",
+   "number": "69-18",
+   "date": "2021-03-08",
+   "title": "Dahir n° 1-21-25 du 10 rejeb 1442 (22 février 2021) portant promulgation de la loi n° 69-18 relative à la pollution par les navires.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC204627/dahir-n-1-21-25-du-10-rejeb-1442-22-fevrier-2021-portant-pro-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor204627.pdf",
+   "text_layer": "born-digital",
+   "articles": 59
+  },
+  {
+   "id": "lois/2021/71-18-relative-a-la-police-des-ports",
+   "kind": "loi",
+   "number": "71-18",
+   "date": "2021-05-26",
+   "title": "Dahir n° 1-21-49 du 14 chaoual 1442 (26 mai 2021) portant promulgation de la loi n° 71-18 relative à la police des ports.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225952/dahir-n-1-21-49-du-14-chaoual-1442-26-mai-2021-portant-promu-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor225952.pdf",
+   "text_layer": "born-digital",
+   "articles": 138
+  },
+  {
+   "id": "lois/2021/76-17",
+   "kind": "loi",
+   "number": "76-17",
+   "date": "2021-07-14",
+   "title": "Loi n° 76-17 relative à la protection des végétaux,  promulguée par le dahir n° 1-21-66 du 3 hija 1442 (14 juillet 2021).",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC216478/loi-n-76-17-relative-a-la-protection-des-vegetaux-promulguee-mar-2021",
+   "file": "https://faolex.fao.org/docs/pdf/mor216478.pdf",
+   "text_layer": "born-digital",
+   "articles": 62
+  },
+  {
+   "id": "lois/2022/03-22-formant-charte-de-linvestissement",
+   "kind": "loi",
+   "number": "03-22",
+   "date": "2022-12-12",
+   "title": "Dahir n° 1-22-76 du 14 joumada I 1444 (9 décembre 2022) portant promulgation de la loi-cadre n° 03-22 formant charte de l’investissement.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225889/dahir-n-1-22-76-du-14-joumada-i-1444-9-decembre-2022-portant-mar-2022",
+   "file": "https://faolex.fao.org/docs/pdf/mor225889.pdf",
+   "text_layer": "born-digital",
+   "articles": 42
+  },
+  {
+   "id": "lois/2022/06-22-relative-au-systeme-national-de-sante",
+   "kind": "loi",
+   "number": "06-22",
+   "date": "2022-12-12",
+   "title": "Dahir N° 1-22-77 du 14 joumada I 1444 (9 décembre 2022) portant promulgation de la loi-cadre N° 06-22 relative au système national de santé.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC227130/dahir-n-1-22-77-du-14-joumada-i-1444-9-decembre-2022-portant-mar-2022",
+   "file": "https://faolex.fao.org/docs/pdf/mor227130.pdf",
+   "text_layer": "born-digital",
+   "articles": 34
+  },
+  {
+   "id": "lois/2022/80-21-portant-creation-du-registre-national-agricole",
+   "kind": "loi",
+   "number": "80-21",
+   "date": "2022-09-01",
+   "title": "Dahir n° 1-22-36 du 23 chaoual 1443 (24 mai 2022) portant promulgation de la loi n° 80-21 portant création du Registre National Agricole.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225950/dahir-n-1-22-36-du-23-chaoual-1443-24-mai-2022-portant-promu-mar-2022",
+   "file": "https://faolex.fao.org/docs/pdf/mor225950.pdf",
+   "text_layer": "born-digital",
+   "articles": 19
+  },
+  {
+   "id": "lois/2022/84-21-relative-a-laquaculture-marine",
+   "kind": "loi",
+   "number": "84-21",
+   "date": "2023-01-09",
+   "title": "Dahir n° 1-22-81 du 18 joumada I 1444 (13 décembre 2022) portant promulgation de la loi n° 84-21 relative à l’aquaculture marine.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225949/dahir-n-1-22-81-du-18-joumada-i-1444-13-decembre-2022-portan-mar-2022",
+   "file": "https://faolex.fao.org/docs/pdf/mor225949.pdf",
+   "text_layer": "born-digital",
+   "articles": 94
+  },
+  {
+   "id": "lois/2022/95-17-relative-a-larbitrage-et-la-mediation",
+   "kind": "loi",
+   "number": "95-17",
+   "date": "2022-05-24",
+   "title": "Dahir n° 1-22-34 du 23 chaoual 1443 (24 mai 2022) portant promulgation de la loi n° 95-17 relative à l’arbitrage et la médiation conventionnelle.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC242020/dahir-n-1-22-34-du-23-chaoual-1443-24-mai-2022-portant-promu-mar-2022",
+   "file": "https://faolex.fao.org/docs/pdf/mor242020.pdf",
+   "text_layer": "born-digital",
+   "articles": 105
   }
  ]
 }
