@@ -1555,17 +1555,6 @@
    "gaps": 13
   },
   {
-   "id": "codes/code-du-travail",
-   "kind": "code",
-   "date": "2004-06-08",
-   "title": "Loi n° 65-99 relative au Code du travail, promulguée par le dahir n° 1-03-194 du 14 rejeb 1424 (11 septembre 2003)",
-   "source": "https://www.wipo.int/wipolex/en/legislation/details/7371",
-   "file": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/ma/ma050fr.pdf",
-   "text_layer": "born-digital",
-   "articles": 588,
-   "gaps": 1
-  },
-  {
    "id": "codes/code-penal",
    "kind": "code",
    "date": "2019-03-11",
