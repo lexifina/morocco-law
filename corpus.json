@@ -15,6 +15,17 @@
    "gaps": 25
   },
   {
+   "id": "codes/code-de-commerce-maritime",
+   "kind": "dahir",
+   "number": "",
+   "date": "1919-03-31",
+   "title": "Dahir du 28 joumada II 1337 (31 mars 1919) formant Code de Commerce Maritime.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC204657/dahir-du-28-joumada-ii-1337-31-mars-1919-formant-code-de-com-mar-1919",
+   "file": "https://faolex.fao.org/docs/pdf/mor204657.pdf",
+   "text_layer": "born-digital",
+   "articles": 443
+  },
+  {
    "id": "codes/code-de-procedure-civile",
    "kind": "code",
    "date": "2013-06-06",
@@ -24,6 +35,17 @@
    "text_layer": "born-digital",
    "articles": 562,
    "gaps": 38
+  },
+  {
+   "id": "codes/code-des-droits-reels",
+   "kind": "loi",
+   "number": "39-08",
+   "date": "2012-05-24",
+   "title": "Loi n° 39-08 relative au code des droits réels.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC225024/loi-n-39-08-relative-au-code-des-droits-reels-mar-2023",
+   "file": "https://faolex.fao.org/docs/pdf/mor225024.pdf",
+   "text_layer": "born-digital",
+   "articles": 334
   },
   {
    "id": "codes/code-des-obligations-et-contrats",
@@ -60,6 +82,336 @@
    "date": "2011-07-30",
    "title": "Constitution du Royaume du Maroc (2011)",
    "source": "https://adala.justice.gov.ma/"
+  },
+  {
+   "id": "dahirs/1913/sn-0812-sur-limmatriculation-des-immeubles-1913",
+   "kind": "dahir",
+   "number": "",
+   "date": "1913-08-12",
+   "title": "Dahir du 9 ramadan 1331 (12 août 1913) sur l’immatriculation des immeubles 1913.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC205081/dahir-du-9-ramadan-1331-12-aout-1913-sur-l-immatriculation-d-mar-1913",
+   "file": "https://faolex.fao.org/docs/pdf/mor205081.pdf",
+   "text_layer": "born-digital",
+   "articles": 123
+  },
+  {
+   "id": "dahirs/1914/sn-0825-portant-reglementation-des-etablissements",
+   "kind": "dahir",
+   "number": "",
+   "date": "1914-08-25",
+   "title": "Dahir du 25 août 1914 (3 chaoual 1332) portant réglementation des établissements insalubres, incommodes ou dangereux.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC196117/dahir-du-25-aout-1914-3-chaoual-1332-portant-reglementation-mar-1914",
+   "file": "https://faolex.fao.org/docs/pdf/mor196117.pdf",
+   "text_layer": "born-digital",
+   "articles": 12
+  },
+  {
+   "id": "dahirs/1922/sn-0325-portant-reglement-sur-l-exercice-de-la-peche-en",
+   "kind": "dahir",
+   "number": "",
+   "date": "1922-03-25",
+   "title": "Dahir du 25 rejeb 1340 (25 mars 1922) portant règlement sur l'exercice de la pêche en flotte dans les eaux territoriales du Maroc.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC236608/dahir-du-25-rejeb-1340-25-mars-1922-portant-reglement-sur-l-mar-1922",
+   "file": "https://faolex.fao.org/docs/pdf/mor236608.pdf",
+   "text_layer": "born-digital",
+   "articles": 26
+  },
+  {
+   "id": "dahirs/1922/sn-0411-du-11-avril-1922-sur-la-peche-dans-les-eaux",
+   "kind": "dahir",
+   "number": "",
+   "date": "1922-04-11",
+   "title": "Dahir (12 chaabane 1340) du 11 avril 1922 sur la pêche dans les eaux continentales",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC018405/dahir-12-chaabane-1340-du-11-avril-1922-sur-la-peche-dans-le-mar-1922",
+   "file": "https://faolex.fao.org/docs/pdf/mor18405.pdf",
+   "text_layer": "born-digital",
+   "articles": 38
+  },
+  {
+   "id": "dahirs/1927/sn-0920-23-rebia-i-1346-portant-reglement-de-police",
+   "kind": "dahir",
+   "number": "",
+   "date": "1927-09-20",
+   "title": "Dahir du 20 septembre 1927 (23 rebia I 1346) portant règlement de police sanitaire des végétaux en zone française de l’Empire Chérifien.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC178301/dahir-du-20-septembre-1927-23-rebia-i-1346-portant-reglement-mar-1927",
+   "file": "https://faolex.fao.org/docs/pdf/Mor178301.pdf",
+   "text_layer": "born-digital",
+   "articles": 1
+  },
+  {
+   "id": "dahirs/1961/1-61-370-reglementant-l-importation-l-exportation-le",
+   "kind": "dahir",
+   "number": "1-61-370",
+   "date": "1961-12-30",
+   "title": "Dahir n° 1-61-370 du 30 décembre 1961 réglementant l'importation, l'exportation, le raffinage, la reprise en raffinerie, la fixation des prix, le stockage et la distribution des produits pétroliers.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC092511/dahir-n-1-61-370-du-30-decembre-1961-reglementant-l-importat-mar-1961",
+   "file": "https://faolex.fao.org/docs/pdf/mor92511.pdf",
+   "text_layer": "born-digital",
+   "articles": 22
+  },
+  {
+   "id": "dahirs/1963/1-63-226-portant-creation-de-l-office-national-de",
+   "kind": "dahir",
+   "number": "1-63-226",
+   "date": "1963-08-05",
+   "title": "Dahir n° 1-63-226 du 14 rabii I 1383 (5 août 1963) portant création de l'Office national de l’électricité.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC178299/dahir-n-1-63-226-du-14-rabii-i-1383-5-aout-1963-portant-crea-mar-1963",
+   "file": "https://faolex.fao.org/docs/pdf/Mor178299.pdf",
+   "text_layer": "born-digital",
+   "articles": 16
+  },
+  {
+   "id": "dahirs/1969/1-69-172-relatif-a-la-conservation-des-eaux-sur-des-terres",
+   "kind": "dahir",
+   "number": "1-69-172",
+   "date": "1969-07-29",
+   "title": "Dahir nº 1-69-172 relatif à la conservation des eaux sur des terres collectives situées dans les régions semi-arides.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC042827/dahir-n-1-69-172-relatif-a-la-conservation-des-eaux-sur-des-mar-1969",
+   "file": "https://faolex.fao.org/docs/pdf/mor42827.pdf",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
+   "id": "dahirs/1972/1-72-277-relatif-a-l-attribution-a-des-agriculteurs-de",
+   "kind": "dahir",
+   "number": "1-72-277",
+   "date": "1973-09-26",
+   "title": "Dahir portant loi n° 1-72-277 du 22 kaada 1392 (29 décembre 1972) relatif à l'attribution à des agriculteurs de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC066538/dahir-portant-loi-n-1-72-277-du-22-kaada-1392-29-decembre-19-mar-1972",
+   "file": "https://faolex.fao.org/docs/pdf/mor66538.pdf",
+   "text_layer": "born-digital",
+   "articles": 32
+  },
+  {
+   "id": "dahirs/1973/1-72-255-sur-l-importation-l-exportation-le-raffinage-la",
+   "kind": "dahir",
+   "number": "1-72-255",
+   "date": "1973-03-21",
+   "title": "Dahir portant loi n° 1-72-255 du 22 février 1973  sur l'importation, l'exportation, le raffinage, la reprise en raffinerie et en centre emplisseur, le stockage et la distribution des hydrocarbures.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC074292/dahir-portant-loi-n-1-72-255-du-22-fevrier-1973-sur-l-import-mar-1973",
+   "file": "https://faolex.fao.org/docs/pdf/mor74292.pdf",
+   "text_layer": "born-digital",
+   "articles": 23
+  },
+  {
+   "id": "dahirs/1973/1-formant-reglement-sur-la-peche-maritime-b-o-n",
+   "kind": "dahir",
+   "number": "1",
+   "date": "1973-11-23",
+   "title": "Dahir portant loi nº 1-73-255 formant règlement sur la pêche maritime.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC001493/dahir-portant-loi-n-1-73-255-formant-reglement-sur-la-peche-mar-1973",
+   "file": "https://faolex.fao.org/docs/pdf/mor1493.pdf",
+   "text_layer": "born-digital",
+   "articles": 57
+  },
+  {
+   "id": "dahirs/1993/1-93-230-relatif-a-l-ordre-national-des-veterinaires",
+   "kind": "dahir",
+   "number": "1-93-230",
+   "date": "1993-10-06",
+   "title": "Dahir portant loi n° 1-93-230 du 19 rebia II 1414 (6 octobre 1993) relatif à l'ordre national des vétérinaires.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC176811/dahir-portant-loi-n-1-93-230-du-19-rebia-ii-1414-6-octobre-1-mar-1993",
+   "file": "https://faolex.fao.org/docs/pdf/Mor176811.pdf",
+   "text_layer": "born-digital",
+   "articles": 76
+  },
+  {
+   "id": "dahirs/2000/1-90-191-portant-publication-de-la-convention",
+   "kind": "dahir",
+   "number": "1-90-191",
+   "date": "2001-04-05",
+   "title": "Dahir n° 1-90-191 du 27 chaabane 1421 (24 novembre 2000) portant publication de la Convention internationale sur le jaugeage des navires faite à Londres le 23 juin 1969.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC162713/dahir-n-1-90-191-du-27-chaabane-1421-24-novembre-2000-portan-mar-2000",
+   "file": "https://faolex.fao.org/docs/pdf/Mor162713.pdf",
+   "text_layer": "born-digital",
+   "articles": 22
+  },
+  {
+   "id": "lois/1973/1-81-instituant-une-zone-economique-exclusive-de-200",
+   "kind": "loi",
+   "number": "1-81",
+   "date": "1973-03-02",
+   "title": "Dahir portant loi n° 1-73-211 du 26 moharrem 1393 (2 mars 1973) relatif à la mer territoriale du Royaume du Maroc.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC236610/dahir-portant-loi-n-1-73-211-du-26-moharrem-1393-2-mars-1973-mar-1973",
+   "file": "https://faolex.fao.org/docs/pdf/mor236610.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "lois/1976/1-76-350-relative-a-l-organisation-de-la-participation-des",
+   "kind": "loi",
+   "number": "1-76-350",
+   "date": "1976-09-22",
+   "title": "Loi nº 1-76-350 relative à l'organisation de la participation des populations au développement de l'économie forestière.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC002839/loi-n-1-76-350-relative-a-l-organisation-de-la-participation-mar-1976",
+   "file": "https://faolex.fao.org/docs/pdf/mor2839.pdf",
+   "text_layer": "born-digital",
+   "articles": 14
+  },
+  {
+   "id": "lois/1977/7-79-du-17-hija-1399-8-novembre-1979-par-le-dahir-n-1",
+   "kind": "loi",
+   "number": "7-79",
+   "date": "1977-09-19",
+   "title": "Dahir portant loi n° 1-75-292 du 5 chaoual 1397 (19 septembre 1977) édictant des mesures propres à garantir les animaux domestiques contre les maladies contagieuses tel qu’il à été modifie et complété par le dahir n° 1-79-224 portant promulgation de la loi n° 7-79 du 17 hija 1399 (8 novembre 1979), par le dahir n° 1-96-254 portant promulgation de la loi n° 25-96 du 12 ramadan 1417 (21 janvier1997), le dahir n° 1-02-254 portant promulgation de la loi n° 46 -01 du 25 rejeb 1423 (3 octobre 2002), et le dahir n° 1-06-51 portant promulgation de la loi n° 06-05 du 15 moharrem 1427 (14 février 2006).",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC004020/dahir-portant-loi-n-1-75-292-du-5-chaoual-1397-19-septembre-mar-1977",
+   "file": "https://faolex.fao.org/docs/pdf/mor004020.pdf",
+   "text_layer": "born-digital",
+   "articles": 12
+  },
+  {
+   "id": "lois/1984/13-83-relative-a-la-repression-des-fraudes-sur-les",
+   "kind": "loi",
+   "number": "13-83",
+   "date": "1985-03-20",
+   "title": "Dahir n° 1-83-108 du 5 octobre 1984 portant promulgation de la loi n° 13-83 relative à la répression des fraudes sur les marchandises.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC074281/dahir-n-1-83-108-du-5-octobre-1984-portant-promulgation-de-l-mar-1984",
+   "file": "https://faolex.fao.org/docs/pdf/mor74281.pdf",
+   "text_layer": "born-digital",
+   "articles": 46
+  },
+  {
+   "id": "lois/1994/20-93-modifiant-et-completant-la-loi-n-21-80-relative-a",
+   "kind": "loi",
+   "number": "20-93",
+   "date": "1994-02-18",
+   "title": "Loi n° 20-93 modifiant et complétant la loi n° 21-80 relative à l'exercice, à titre privé, de la médecine, de la chirurgie et de la pharmacie vétérinaires.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC173749/loi-n-20-93-modifiant-et-completant-la-loi-n-21-80-relative-mar-1994",
+   "file": "https://faolex.fao.org/docs/pdf/Mor173749.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "lois/1995/18-95-charte-des-investissements",
+   "kind": "loi",
+   "number": "18-95",
+   "date": "1995-10-03",
+   "title": "Loi Cadre n° 18-95 du 3 octobre 1995 - Charte des Investissements.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC206838/loi-cadre-n-18-95-du-3-octobre-1995-charte-des-investissemen-mar-1995",
+   "file": "https://faolex.fao.org/docs/pdf/mor206838.pdf",
+   "text_layer": "born-digital",
+   "articles": 25
+  },
+  {
+   "id": "lois/1997/04-97-formant-statut-des-chambres-des-peches-maritimes",
+   "kind": "loi",
+   "number": "04-97",
+   "date": "1997-04-03",
+   "title": "Dahir nº 1-97-88 portant promulgation de la loi nº 4-97 formant statut des chambres des pêches maritimes.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC011397/dahir-n-1-97-88-portant-promulgation-de-la-loi-n-4-97-forman-mar-1997",
+   "file": "https://faolex.fao.org/docs/pdf/mor11397.pdf",
+   "text_layer": "born-digital",
+   "articles": 28
+  },
+  {
+   "id": "lois/1997/9-94-sur-la-protection-des-obtentions-vegetales",
+   "kind": "loi",
+   "number": "9-94",
+   "date": "1997-05-15",
+   "title": "Dahir nº 1-96-255 portant promulgation de la loi nº 9-94 sur la protection des obtentions végétales.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC011399/dahir-n-1-96-255-portant-promulgation-de-la-loi-n-9-94-sur-l-mar-1997",
+   "file": "https://faolex.fao.org/docs/pdf/mor11399.pdf",
+   "text_layer": "born-digital",
+   "articles": 76
+  },
+  {
+   "id": "lois/1999/24-99-modifiant-et-completant-le-dahir-portant-loi-n-1",
+   "kind": "loi",
+   "number": "24-99",
+   "date": "1999-08-25",
+   "title": "Dahir n° 1-99-195 du 13 joumada I 1420 (25 août 1999) portant promulgation de la loi n° 24-99 modifiant et complétant le dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC079205/dahir-n-1-99-195-du-13-joumada-i-1420-25-aout-1999-portant-p-mar-1999",
+   "file": "https://faolex.fao.org/docs/pdf/mor79205.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "lois/2000/06-99-sur-la-liberte-des-prix-et-de-la-concurrence",
+   "kind": "loi",
+   "number": "06-99",
+   "date": "2000-06-05",
+   "title": "Dahir n° 1-00-225 du 5 juin 2000 portant promulgation de la loi n° 06-99 sur la liberté des prix et de la concurrence.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC200353/dahir-n-1-00-225-du-5-juin-2000-portant-promulgation-de-la-l-mar-2000",
+   "file": "https://faolex.fao.org/docs/pdf/mor200353.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 103
+  },
+  {
+   "id": "lois/2002/32-00-modifiant-et-completant-la-loi-n-42-95-relative",
+   "kind": "loi",
+   "number": "32-00",
+   "date": "2002-02-11",
+   "title": "Loi n° 32-00 modifiant et complétant la loi n° 42-95 relative au contrôle et à l'organisation du commerce des produits Pesticides à usage agricole.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC176775/loi-n-32-00-modifiant-et-completant-la-loi-n-42-95-relative-mar-2002",
+   "file": "https://faolex.fao.org/docs/pdf/Mor176775.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "lois/2003/11-03-relative-a-la-protection-et-a-la-mise-en-valeur",
+   "kind": "loi",
+   "number": "11-03",
+   "date": "2003-06-19",
+   "title": "Dahir nº 1-03-59 portant promulgation de la loi nº 11-03 relative à la protection et à la mise en valeur de l'environnement.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC042766/dahir-n-1-03-59-portant-promulgation-de-la-loi-n-11-03-relat-mar-2003",
+   "file": "https://faolex.fao.org/docs/pdf/mor42766.pdf",
+   "text_layer": "born-digital",
+   "articles": 79
+  },
+  {
+   "id": "lois/2004/39-03-modifiant-et-completant-le-dahir-portant-loi-n-1",
+   "kind": "loi",
+   "number": "39-03",
+   "date": "2004-04-21",
+   "title": "Dahir n° 1-04-26 du 21 avril 2004 portant promulgation de la loi n° 39-03 modifiant et complétant le dahir portant loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC079204/dahir-n-1-04-26-du-21-avril-2004-portant-promulgation-de-la-mar-2004",
+   "file": "https://faolex.fao.org/docs/pdf/mor79204.pdf",
+   "text_layer": "born-digital",
+   "articles": 3
+  },
+  {
+   "id": "lois/2005/05-01-relative-a-la-cession-a-leurs-occupants-reguliers",
+   "kind": "loi",
+   "number": "05-01",
+   "date": "2005-01-20",
+   "title": "Dahir n° 1-04-251 du 25 kaada 1425 (7 janvier 2005) portant promulgation de la loi n° 05-01 relative à la cession à leurs occupants réguliers de certains lots agricoles ou à vocation agricole relevant du domaine privé de l'Etat.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC066529/dahir-n-1-04-251-du-25-kaada-1425-7-janvier-2005-portant-pro-mar-2005",
+   "file": "https://faolex.fao.org/docs/pdf/mor66529.pdf",
+   "text_layer": "born-digital",
+   "articles": 10
+  },
+  {
+   "id": "lois/2005/12-02-relative-a-la-responsabilite-civile-en-matiere-de",
+   "kind": "loi",
+   "number": "12-02",
+   "date": "2005-01-20",
+   "title": "Dahir n° 1-04-278 portant promulgation de la loi n° 12-02 relative à la responsabilité civile en matière de dommages nucléaires.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC064812/dahir-n-1-04-278-portant-promulgation-de-la-loi-n-12-02-rela-mar-2005",
+   "file": "https://faolex.fao.org/docs/pdf/mor64812.pdf",
+   "text_layer": "born-digital",
+   "articles": 35
+  },
+  {
+   "id": "lois/2006/54-03-modifiant-et-completant-le-dahir-du-6-hija-1341",
+   "kind": "loi",
+   "number": "54-03",
+   "date": "2006-07-06",
+   "title": "Dahir n° 1-06-127 du 15 juin 2006 portant promulgation de la loi n° 54-03 modifiant et complétant le dahir du 6 hija 1341 (21 juillet 1923) sur la police de la chasse.",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC066504/dahir-n-1-06-127-du-15-juin-2006-portant-promulgation-de-la-mar-2006",
+   "file": "https://faolex.fao.org/docs/pdf/mor66504.pdf",
+   "text_layer": "born-digital",
+   "articles": 4
+  },
+  {
+   "id": "lois/2007/01-06-relative-au-developpement-durable-des-palmeraies",
+   "kind": "loi",
+   "number": "01-06",
+   "date": "2007-05-03",
+   "title": "Dahir n° 1-07-42 du 28 rabii I 1428 (17 avril 2007) portant promulgation de la loi n° 01-06 relative au développement durable des palmeraies et portant protection du palmier dattier \"phoenix dactylifera\".",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC074263/dahir-n-1-07-42-du-28-rabii-i-1428-17-avril-2007-portant-pro-mar-2007",
+   "file": "https://faolex.fao.org/docs/pdf/mor74263.pdf",
+   "text_layer": "born-digital",
+   "articles": 21
   }
  ]
 }
