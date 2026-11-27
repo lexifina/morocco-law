@@ -2927,6 +2927,30 @@
    "articles": 0
   },
   {
+   "id": "lois/2001/45-00",
+   "kind": "loi",
+   "number": "45-00",
+   "date": "2023-10-19",
+   "title": "ظهير شريف رقم 1.01.126 صادر في 29 من ربيع الأول 1422 (22 يونيو 2001) بتنفيذ القانون رقم 45.00 المتعلق بالخبراء القضائيين",
+   "source": "https://adala.justice.gov.ma/resources/911",
+   "file": "https://adala.justice.gov.ma/api/uploads/2025/11/17/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.01.126%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2045.00%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D9%8A%D9%86-1763370905548.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 32
+  },
+  {
+   "id": "lois/2001/49-00",
+   "kind": "loi",
+   "number": "49-00",
+   "date": "2001-07-19",
+   "title": "ظهير شريف رقم 1.01.124 صادر في 29 من ربيع األول 1422 (22 يونيو 2001)بتنفيذ القانون رقم 49.00 1 المتعلق بتنظيم مهنة النساخة",
+   "source": "https://adala.justice.gov.ma/resources/913",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/02/01/%D8%AA%D9%86%D8%B8%D9%8A%D9%85%20%D9%85%D9%87%D9%86%D8%A9%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%AE%D8%A9-1706775996172.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 41
+  },
+  {
    "id": "lois/2002/32-00-modifiant-et-completant-la-loi-n-42-95-relative",
    "kind": "loi",
    "number": "32-00",
@@ -3004,6 +3028,18 @@
    "articles": 84
   },
   {
+   "id": "lois/2006/16-03",
+   "kind": "loi",
+   "number": "16-03",
+   "date": "2006-03-02",
+   "title": "ظهير شريف رقم 1.06.56 صادر في 15 من محرم 1427 (14 فبراير 2006) بتنفيذ القانون رقم 16.03 المتعلق بخطة العدالة",
+   "source": "https://adala.justice.gov.ma/resources/909",
+   "file": "https://adala.justice.gov.ma/api/uploads/2025/11/12/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.06.56%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2016.03%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%AE%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-1762957544088.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 85
+  },
+  {
    "id": "lois/2006/54-03-modifiant-et-completant-le-dahir-du-6-hija-1341",
    "kind": "loi",
    "number": "54-03",
@@ -3013,6 +3049,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor66504.pdf",
    "text_layer": "born-digital",
    "articles": 4
+  },
+  {
+   "id": "lois/2006/81-03",
+   "kind": "loi",
+   "number": "81-03",
+   "date": "2006-03-02",
+   "title": "ظهير شريف رقم 1.06.23 صادر في 15 من محرم 1427 (14 فبراير 2006) 1 بتنفيذ القانون رقم 81.03 بتنظيم مهنة المفوضين القضائيين( نسخ )",
+   "source": "https://adala.justice.gov.ma/resources/910",
+   "file": "https://adala.justice.gov.ma/api/uploads/2025/11/10/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.06.23%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2081.03%20%D8%A8%D8%AA%D9%86%D8%B8%D9%8A%D9%85%20%D9%85%D9%87%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D9%81%D9%88%D8%B6%D9%8A%D9%86%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D9%8A%D9%86-1762765898686.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 52
   },
   {
    "id": "lois/2007/01-06-relative-au-developpement-durable-des-palmeraies",
