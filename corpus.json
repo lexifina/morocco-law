@@ -92,6 +92,18 @@
    "articles": 3
   },
   {
+   "id": "arretes/1970/3-289-70",
+   "kind": "arrete",
+   "number": "3-289-70",
+   "date": "1970-10-28",
+   "title": "قرار بتنظيم الاتجار في المشروبات الكحولية أو الممزوجة بالكحول",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/11/23/%D9%82%D8%B1%D8%A7%D8%B1%20%D9%84%D9%84%D9%85%D8%AF%D9%8A%D8%B1%20%D8%A7%D9%84%D8%B9%D8%A7%D9%85%20%D9%84%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%20%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%20%D8%B1%D9%82%D9%85%20%203.177.66%20%20%D8%A8%D8%AA%D9%86%D8%B8%D9%8A%D9%85%20-1795448455515.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 44
+  },
+  {
    "id": "arretes/1973/120-73-relatif-a-la-tenue-des-livres-genealogiques-du",
    "kind": "arrete",
    "number": "120-73",
@@ -1557,6 +1569,18 @@
    "gaps": 38
   },
   {
+   "id": "codes/code-de-procedure-penale/ar",
+   "kind": "loi",
+   "number": "89-18",
+   "date": "2025-09-08",
+   "title": "القانون المتعلق بالمسطرة الجنائية",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/11/20/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.02.255%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2022.01-1795186897152.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 626
+  },
+  {
    "id": "codes/code-des-droits-reels",
    "kind": "loi",
    "number": "39-08",
@@ -1768,6 +1792,30 @@
    "file": "https://faolex.fao.org/docs/pdf/Mor162713.pdf",
    "text_layer": "born-digital",
    "articles": 22
+  },
+  {
+   "id": "dahirs/2011/1-11-170",
+   "kind": "dahir",
+   "number": "1-11-170",
+   "date": "2011-10-26",
+   "title": "ظهير شريف بشأن العفو",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/02/07/%D8%A7%D9%84%D8%B9%D9%81%D9%88-1707299089959.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 4
+  },
+  {
+   "id": "dahirs/2021/50-21",
+   "kind": "dahir",
+   "number": "50-21",
+   "date": "2021-07-26",
+   "title": "ظهير شريف بتنفيذ القانون - الإطار رقم 50.21 المتعلق بإصلاح المؤسسات والمقاولات العمومية",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/03/10/%D8%B8%D9%80%D9%87%D9%80%D9%80%D9%8A%D9%80%D8%B1%20%D8%B4%D9%80%D8%B1%D9%8A%D9%80%D9%81%20%D8%B1%D9%82%D9%80%D9%85%201.21.89%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20-%20%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1%20%D8%B1%D9%82%D9%85%2050.21-1773136004979.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 60
   },
   {
    "id": "decrets/1958/2-58-783-relatif-au-comite-central-et-aux-comites-locaux",
@@ -2575,6 +2623,18 @@
    "articles": 1
   },
   {
+   "id": "decrets/2020/2-20-690",
+   "kind": "decret",
+   "number": "2-20-690",
+   "date": "2020-10-01",
+   "title": "مرسوم بقانون سن أحكام استثنائية تتعلق بالغرامات المالية الواجب أداؤها لاسترجاع إمكانية إصدار الشيكات",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/07/24/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%A8%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%202.20.690%20%D8%A8%D8%B3%D9%86%20%D8%A3%D8%AD%D9%83%D8%A7%D9%85%20%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9%20%D8%AA%D8%AA%D8%B9%D9%84%D9%82-1784906658889.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 3
+  },
+  {
    "id": "decrets/2020/2-20-710-fixant-les-conditions-et-les-modalites-de",
    "kind": "decret",
    "number": "2-20-710",
@@ -2619,6 +2679,18 @@
    "articles": 1
   },
   {
+   "id": "decrets/2021/2-20-956",
+   "kind": "decret",
+   "number": "2-20-956",
+   "date": "2021-07-03",
+   "title": "مرسوم لتطبيق المقتضيات المتعلقة بالشهر في السجل التجاري الإلكتروني وإيداع القوائم التركيبية للشركات بطريقة إلكترونية",
+   "source": "https://adala.justice.gov.ma/resources/37",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/03/30/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%202.20.956%20%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A7%D9%84%D9%85%D9%82%D8%AA%D8%B6%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%D8%A9%20%D8%A8%D8%A7%D9%84%D8%B4%D9%87%D8%B1%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B3%D8%AC%D9%84-1774880435170.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 24
+  },
+  {
    "id": "decrets/2021/2-21-01-relatif-a-la-qualite-et-la-securite-sanitaire-des",
    "kind": "decret",
    "number": "2-21-01",
@@ -2661,6 +2733,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor208314.pdf",
    "text_layer": "born-digital",
    "articles": 1
+  },
+  {
+   "id": "decrets/2021/2-21-670",
+   "kind": "decret",
+   "number": "2-21-670",
+   "date": "2021-09-20",
+   "title": "مرسوم بتحديد دوائر نفود المحاكم المختصة في جرائم غسل الأموال",
+   "source": "https://adala.justice.gov.ma/resources/3",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/01/02/%D9%85%D8%B1%D8%B3%D9%88%D9%85%20%D8%B1%D9%82%D9%85%202.21.670%20%D8%A8%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF%20%D8%AF%D9%88%D8%A7%D8%A6%D8%B1%20%D9%86%D9%81%D9%88%D8%B0%20%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%83%D9%85%20%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B5%D8%A9%20%D9%81%D9%8A%20%D8%AC%D8%B1%D8%A7%D8%A6%D9%85%20%D8%BA%D8%B3%D9%84%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-1767345001408.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 2
   },
   {
    "id": "decrets/2021/2-21-705-pris-pour-lapplication-de-certaines-dispositions",
@@ -3023,6 +3107,18 @@
    "articles": 57
   },
   {
+   "id": "lois/2002/15-01",
+   "kind": "loi",
+   "number": "15-01",
+   "date": "2026-07-16",
+   "title": "ظهير شريف بتنفيذ القانون رقم 15.01 المتعلق بكفالة الأطفال المهملين",
+   "source": "https://adala.justice.gov.ma/resources/22",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/07/29/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.02.172%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2015.01%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%83%D9%81%D8%A7%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D8%A7%D9%84%D9%85%D9%87%D9%85%D9%84%D9%8A%D9%86-1785317078022.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 31
+  },
+  {
    "id": "lois/2002/32-00-modifiant-et-completant-la-loi-n-42-95-relative",
    "kind": "loi",
    "number": "32-00",
@@ -3055,6 +3151,30 @@
    "file": "https://faolex.fao.org/docs/pdf/mor42766.pdf",
    "text_layer": "born-digital",
    "articles": 79
+  },
+  {
+   "id": "lois/2003/4-89",
+   "kind": "loi",
+   "number": "4-89",
+   "date": "2003-12-18",
+   "title": "ظهير شريف بتنفيذ القانون رقم 4.89 المتعلق بالطرق السيارة",
+   "source": "https://adala.justice.gov.ma/resources/871",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/11/14/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.91.109%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%204.89%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D8%B7%D8%B1%D9%82%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-1731571309180.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 13
+  },
+  {
+   "id": "lois/2003/46-02",
+   "kind": "loi",
+   "number": "46-02",
+   "date": "2020-12-28",
+   "title": "ظهير شريف بتنفيذ القانون رقم 46.02 المتعلق بنظام التبغ الخام والتبغ المصنع",
+   "source": "https://adala.justice.gov.ma/resources/31",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/10/08/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.03.53%20%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2046.02%20-1791476546078.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 35
   },
   {
    "id": "lois/2003/68-99-relative-au-depot-legal-1",
@@ -3170,6 +3290,18 @@
    "articles": 21
   },
   {
+   "id": "lois/2007/43-05",
+   "kind": "loi",
+   "number": "43-05",
+   "date": "2021-08-19",
+   "title": "القانون المتعلق بمكافحة غسل الأموال",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/03/27/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.07.79%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2043.05%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%BA%D8%B3%D9%84%20%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-1774622209154.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 14
+  },
+  {
    "id": "lois/2008/25-06-relative-aux-signes-distinctifs-d-origine-et-de",
    "kind": "loi",
    "number": "25-06",
@@ -3240,6 +3372,18 @@
    "articles": 204
   },
   {
+   "id": "lois/2011/37-10",
+   "kind": "loi",
+   "number": "37-10",
+   "date": "2011-10-20",
+   "title": "قانون حماية الضحايا والشهود والخبراء والمبلغين فيما يخص جرائم الرشوة و الاختلاس و استغلال النفوذ و غيرها",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/02/07/%D8%AD%D9%85%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7%20%D9%88%D8%A7%D9%84%D8%B4%D9%87%D9%88%D8%AF%20%D9%88%D8%A7%D9%84%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D9%85%D8%A8%D9%84%D8%BA%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%AC%D8%B1%D8%A7%D8%A6%D9%85%20%D8%A7%D9%84%D8%B1%D8%B4%D9%88%D8%A9-1707294480845.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 8
+  },
+  {
    "id": "lois/2012/69-16-completant-larticle-4-de-la-loi-n-39-08-relative",
    "kind": "loi",
    "number": "69-16",
@@ -3261,6 +3405,18 @@
    "text_layer": "born-digital",
    "language": "ar",
    "articles": 3
+  },
+  {
+   "id": "lois/2013/67-12",
+   "kind": "loi",
+   "number": "67-12",
+   "date": "2019-02-21",
+   "title": "القانون المتعلق بتنظيم العلاقات التعاقدية بين المكري والمكتري للمحلات المعدة للسكنى أو للاستعمال المهني",
+   "source": "https://adala.justice.gov.ma/resources/24",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/04/15/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.13.111%20%D8%B5%D8%A7%D8%AF%D8%B1%20%D9%81%D9%8A-1776242288111.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 74
   },
   {
    "id": "lois/2014/066-13",
@@ -3413,6 +3569,18 @@
    "articles": 33
   },
   {
+   "id": "lois/2016/27-14",
+   "kind": "loi",
+   "number": "27-14",
+   "date": "2016-09-19",
+   "title": "القانون المتعلق بمكافحة الاتجار بالبشر",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/08/29/%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A7%D8%AA%D8%AC%D8%A7%D8%B1%20%D8%A8%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%20%D8%B5%D9%8A%D8%BA%D8%A9%20%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-1724923695748.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 3
+  },
+  {
    "id": "lois/2016/78-14",
    "kind": "loi",
    "number": "78-14",
@@ -3435,6 +3603,18 @@
    "text_layer": "born-digital",
    "language": "ar",
    "articles": 22
+  },
+  {
+   "id": "lois/2018/103-13",
+   "kind": "loi",
+   "number": "103-13",
+   "date": "2018-09-12",
+   "title": "القانون المتعلق بمحاربة العنف ضد النساء",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/10/20/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.18.19%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%20103.13%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B9%D9%86%D9%81%20%D8%B6%D8%AF%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1-1792507857329.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 18
   },
   {
    "id": "lois/2018/31-13-relative-au-droit-d-acces-a-l-information",
@@ -3527,6 +3707,30 @@
    "articles": 45
   },
   {
+   "id": "lois/2020/76-20",
+   "kind": "loi",
+   "number": "76-20",
+   "date": "2021-01-11",
+   "title": "القانون القاضي بإحداث صندوق محمد السادس للاستثمار",
+   "source": "https://adala.justice.gov.ma/resources/31",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/27/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%20103%20.1.20%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2076.20%20%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A%20%D8%A8%D8%A5%D8%AD%D8%AF%D8%A7%D8%AB%20%D8%B5%D9%86%D8%AF%D9%88%D9%82%20%D9%85%D8%AD%D9%85...-1735300682597.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 12
+  },
+  {
+   "id": "lois/2020/77-17",
+   "kind": "loi",
+   "number": "77-17",
+   "date": "2020-03-19",
+   "title": "القانون المتعلق بتنظيم ممارسة مهام الطب الشرعي",
+   "source": "https://adala.justice.gov.ma/resources/21",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/11/05/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.20.08%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%AA%D9%86%D8%B8%D9%8A%D9%85%20%D9%85%D9%85%D8%A7%D8%B1%D8%B3%D8%A9%20%D9%85%D9%87%D8%A7%D9%85%20%D8%A7%D9%84%D8%B7%D8%A8%20%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A-1793895586557.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 38
+  },
+  {
    "id": "lois/2021/09-21-relative-a-la-protection-sociale",
    "kind": "loi",
    "number": "09-21",
@@ -3536,6 +3740,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor225131.pdf",
    "text_layer": "born-digital",
    "articles": 19
+  },
+  {
+   "id": "lois/2021/15-18",
+   "kind": "loi",
+   "number": "15-18",
+   "date": "2021-03-08",
+   "title": "القانون المتعلق بالتمويل التعاوني",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/02/20/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.21.24-1771596757101.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 70
   },
   {
    "id": "lois/2021/19-20",
