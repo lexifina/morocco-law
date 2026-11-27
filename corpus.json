@@ -1523,6 +1523,18 @@
    "articles": 443
   },
   {
+   "id": "codes/code-de-commerce/ar",
+   "kind": "loi",
+   "number": "71-24",
+   "date": "2026-01-29",
+   "title": "قانون يتعلق بمدونة التجارة",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/05/25/%D8%B8%D9%80%D9%80%D9%87%D9%80%D9%80%D9%8A%D9%80%D9%80%D8%B1%20%D8%B4%D9%80%D9%80%D8%B1%D9%8A%D9%80%D9%80%D9%81%20%D8%B1%D9%82%D9%80%D9%80%D9%85%201.96.83%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2015.95-1779718527894.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 738
+  },
+  {
    "id": "codes/code-de-la-presse-et-de-ledition-2003",
    "kind": "dahir",
    "number": "1-58-378",
@@ -2951,6 +2963,18 @@
    "articles": 0
   },
   {
+   "id": "lois/2000/17-97",
+   "kind": "loi",
+   "number": "17-97",
+   "date": "2015-02-09",
+   "title": "ظهير شريف بتنفيذ القانون رقم 17.97 المتعلق بحماية الملكية الصناعية",
+   "source": "https://adala.justice.gov.ma/resources/31",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/12/25/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.00.19%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2017.97%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%AD%D9%85%D8%A7%D9%8A%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9%20%D8%A7%D9%84...-1735122062619.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 8
+  },
+  {
    "id": "lois/2000/2-00",
    "kind": "loi",
    "number": "2-00",
@@ -3180,6 +3204,18 @@
    "articles": 65
   },
   {
+   "id": "lois/2011/31-08",
+   "kind": "loi",
+   "number": "31-08",
+   "date": "2020-12-21",
+   "title": "القانون القاضي بتحديد تدابير لحماية المستهلك",
+   "source": "https://adala.justice.gov.ma/resources/867",
+   "file": "https://adala.justice.gov.ma/api/uploads/2026/10/22/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.11.03%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2031.08%20%D8%A7%20%281%29-1792665155973.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 204
+  },
+  {
    "id": "lois/2012/69-16-completant-larticle-4-de-la-loi-n-39-08-relative",
    "kind": "loi",
    "number": "69-16",
@@ -3292,6 +3328,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor196094.pdf",
    "text_layer": "born-digital",
    "articles": 122
+  },
+  {
+   "id": "lois/2015/69-13",
+   "kind": "loi",
+   "number": "69-13",
+   "date": "2015-04-02",
+   "title": "القانون المتعلق بالمجموعات ذات النفع الاقتصادي",
+   "source": "https://adala.justice.gov.ma/resources/31",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/11/15/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.99.12%20%D8%A8%D8%AA%D9%86%D9%81%D9%8A%D8%B0%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%20%D8%B1%D9%82%D9%85%2013.97%20%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D9%84%D9%82%20%D8%A8%D8%A7%D9%84%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A7%D8%AA%20%D8%B0%D8%A7%D8%AA%20%D8%A7%D9%84...-1731681295167.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 66
   },
   {
    "id": "lois/2016/11-15-portant-reorganisation-de-la-haute-autorite-de-la",
@@ -3428,6 +3476,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor225131.pdf",
    "text_layer": "born-digital",
    "articles": 19
+  },
+  {
+   "id": "lois/2021/19-20",
+   "kind": "loi",
+   "number": "19-20",
+   "date": "2023-02-27",
+   "title": "القانون المتعلق بشركات المساهمة",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2024/02/05/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9-1707139691684.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 326
   },
   {
    "id": "lois/2021/34-18-relative-aux-produits-phytopharmaceutiques",
@@ -3571,6 +3631,18 @@
    "file": "https://faolex.fao.org/docs/pdf/mor242020.pdf",
    "text_layer": "born-digital",
    "articles": 105
+  },
+  {
+   "id": "lois/2024/45-24",
+   "kind": "loi",
+   "number": "45-24",
+   "date": "2024-08-22",
+   "title": "القانون المتعلق بشركة التضامن وشركة التوصية البسيطة وشركة التوصية بالأسهم وشركة الأسهم المبسطة والشركة ذات المسؤولية المحدودة وشركة المحاصة",
+   "source": "https://adala.justice.gov.ma/resources/20",
+   "file": "https://adala.justice.gov.ma/api/uploads/2025/12/03/%D8%B8%D9%87%D9%8A%D8%B1%20%D8%B4%D8%B1%D9%8A%D9%81%20%D8%B1%D9%82%D9%85%201.97.49-1764751267036.pdf",
+   "text_layer": "born-digital",
+   "language": "ar",
+   "articles": 108
   }
  ]
 }
